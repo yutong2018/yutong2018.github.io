@@ -20,8 +20,7 @@ redirect_from:
 > ***`I am actively looking for academic positions.`***
 
 # Reseach Interest
-My reseach mainly focus on machine learning and their application in advanced manufacturing, especially **additive manufacturing**. In terms of methodology, I am interested in 
-**reinforcement learning**, **Bayesian optimization**, **Tensor data analytics**, **Federated learning**, **Physics-informed Machine Learning**, and **Adversarial Robustness**.
+Smart manufacturing promises a future of mass-producing highly personalized products via responsive autonomous manufacturing operations at a competitive cost. My reseach mainly focus on machine learning and their application in smart manufacturing to ensure the quality and reliability of products, especially **additive manufacturing**. In terms of methodologies, I am interested in **reinforcement learning**, **Bayesian optimization**, **Tensor data analytics**, **Federated learning**, **Physics-informed Machine Learning**, and **Adversarial Robustness**.
 
 <!-- # Honors and Awards
 *  Runner-up for INFORMS QSR Industry Data Challenge (2020)
