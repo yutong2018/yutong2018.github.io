@@ -31,10 +31,10 @@ My reseach mainly focus on machine learning and their application in advanced ma
 *  Grado Department of Industrial & Systems Engineering Department Fellowship, Virginia Tech (2017)
 *  Undergraduate Fellowship, USTC (2014–2017) -->
 
-# Academic Services
+<!-- # Academic Services
 *  **Session Chair**: Data Mining and Machine Learning in Smart Manufacturing, INFORMS Annual Conference 2021
 *  **Journal Referee**: IISE Transactions, IEEE Transactions on Automation Science and Engineering
-*  **VP Finance**: The INFORMS Student Chapter at Virginia Tech
+*  **VP Finance**: The INFORMS Student Chapter at Virginia Tech -->
 
 <!-- # Academic Services
 * Conference Reviewer: AAAI 2019, AAAI 2020, ICML 2020 (top reviewer award), NeurIPS 2020, AAAI 2021, ICLR 2021, AISTATS 2021, ICRA 2021, ICML 2021, NeurIPS 2021, ICLR 2022, AISTATS 2022, AAAI 2022.
