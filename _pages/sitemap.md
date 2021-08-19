@@ -5,4 +5,4 @@ permalink: /sitemap/
 author_profile: true
 ---
 
-Welcome to Bo's Website\!
+[Welcome to Bo's Website\!](https://boshen0.github.io/)
