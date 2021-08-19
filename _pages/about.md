@@ -21,7 +21,7 @@ redirect_from:
 
 # Reseach Interest
 My reseach mainly focus on machine learning and their application in advanced manufacturing, especially **additive manufacturing**. In terms of methodology, I am interested in 
-**reinforcement learning**, **Bayesian optimization**, **Tensor data analytics**, **Federated learning**, **Industrial Internet of Things**, and **Adversarial Robustness**.
+**reinforcement learning**, **Bayesian optimization**, **Tensor data analytics**, **Federated learning**, **Physics-informed Machine Learning**, and **Adversarial Robustness**.
 
 <!-- # Honors and Awards
 *  Runner-up for INFORMS QSR Industry Data Challenge (2020)
