@@ -1,6 +1,6 @@
 ---
 <!-- layout: archive -->
-title: "Bo's CV"
+title: "Bo Shen"
 permalink: /cv/
 author_profile: true
 redirect_from:
