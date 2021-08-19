@@ -13,10 +13,11 @@ redirect_from:
 </p>
  -->
 # About Me
-* I am a 5th-year Ph.D. Candidate in the [Industrial and Systems Engineering](https://www.ise.vt.edu/) at [Virginia Tech](https://vt.edu/), advised by Prof. [Zhenyu (James) Kong](https://www.ise.vt.edu/people/faculty/kong.html). [[Curriculum Vitae](https://boshen0.github.io/files/BoCV.pdf)] [[Google Scholar](https://scholar.google.com/citations?user=OO3dy4wAAAAJ&hl=en)]
-* My research interests lie in the general area of machine learning, particularly in deep learning, reinforcement learning and probabilistic graphical models, as well as their applications in sequential decision making, generative modeling, multi-task and meta-learning and multi-agent systems.
+* I am a 5th-year Ph.D. Candidate in the [Industrial and Systems Engineering](https://www.ise.vt.edu/) at [Virginia Tech](https://vt.edu/), advised by Prof. [Zhenyu (James) Kong](https://www.ise.vt.edu/people/faculty/kong.html). 
+ * You can find my profiles: [[Curriculum Vitae](https://boshen0.github.io/files/BoCV.pdf)] [[Google Scholar](https://scholar.google.com/citations?user=OO3dy4wAAAAJ&hl=en)] [[ResearchGate](https://www.researchgate.net/profile/Bo-Shen-22)]
 * I received my B.S. of Statistics from [University of Science and Technology of China(USTC)](https://en.ustc.edu.cn/)  in 2017.
 
+_I am actively looking for academic positions._
 
 <!-- # Academic Services
 * Conference Reviewer: AAAI 2019, AAAI 2020, ICML 2020 (top reviewer award), NeurIPS 2020, AAAI 2021, ICLR 2021, AISTATS 2021, ICRA 2021, ICML 2021, NeurIPS 2021, ICLR 2022, AISTATS 2022, AAAI 2022.
