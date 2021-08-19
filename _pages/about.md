@@ -17,7 +17,7 @@ redirect_from:
    * Some of my profiles are available: [[Curriculum Vitae](https://boshen0.github.io/files/BoCV.pdf)] [[Google Scholar](https://scholar.google.com/citations?user=OO3dy4wAAAAJ&hl=en)] [[ResearchGate](https://www.researchgate.net/profile/Bo-Shen-22)]
 * I received my B.S. of Statistics from [University of Science and Technology of China(USTC)](https://en.ustc.edu.cn/)  in 2017.
 
-**_I am actively looking for academic positions._**
+ <kbd>**_I am actively looking for academic positions._** <kbd>
 
 # Reseach Interest
 My reseach mainly focus on machine learning and their application in advanced manufacturing, especially **additive manufacturing**. In terms of methodology, I am interested in 
@@ -26,8 +26,8 @@ My reseach mainly focus on machine learning and their application in advanced ma
 # Honors and Awards
 *  Runner-up for INFORMS QSR Industry Data Challenge (2020)
 *  Finalists for INFORMS QSR Best Refereed Paper Competition (2020)
-*  Second place of poster competition in INFORMS & HFES Student Poster Competition, ISE, Virginia Tech (2019,2020)
-*  ISE Graduate Student Travel Awards, Virginia Tech (2018-2021)
+*  Second place of poster competition in INFORMS & HFES Student Poster Competition, ISE, Virginia Tech (2019, 2020)
+*  ISE Graduate Student Travel Awards, Virginia Tech (2018–2021)
 *  Grado Department of Industrial & Systems Engineering Department Fellowship, Virginia Tech (2017)
 *  Undergraduate Fellowship, USTC (2014–2017)
 
