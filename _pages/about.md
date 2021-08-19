@@ -17,8 +17,13 @@ redirect_from:
  * You can find my profiles: [[Curriculum Vitae](https://boshen0.github.io/files/BoCV.pdf)] [[Google Scholar](https://scholar.google.com/citations?user=OO3dy4wAAAAJ&hl=en)] [[ResearchGate](https://www.researchgate.net/profile/Bo-Shen-22)]
 * I received my B.S. of Statistics from [University of Science and Technology of China(USTC)](https://en.ustc.edu.cn/)  in 2017.
 
-_I am actively looking for academic positions._
+**_I am actively looking for academic positions._**
 
+# Reseach Interest
+My reseach mainly focus on machine learning and their application in advanced manufacturing, especially additive manufacturing. In terms of methodology, I am interested in 
+reinforcement learning, Bayesian optimization, Tensor data analytics, Federated learning, Industrial Internet of Things, and Adversarial Robustness.
+
+# Honors and Awards
 <!-- # Academic Services
 * Conference Reviewer: AAAI 2019, AAAI 2020, ICML 2020 (top reviewer award), NeurIPS 2020, AAAI 2021, ICLR 2021, AISTATS 2021, ICRA 2021, ICML 2021, NeurIPS 2021, ICLR 2022, AISTATS 2022, AAAI 2022.
 * Journal Reviewer: Journal of Artificial Intelligence Research (JAIR), IEEE Robotics and Automation Letters (RA-L), Journal of Machine Learning Research (JMLR). -->
