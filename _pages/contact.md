@@ -4,7 +4,8 @@ title: "Contact"
 permalink: /contact/
 author_profile: true
 ---
-Computer Science Department, Stanford University<br>
-Gates 158, 353 Serra Mall, Stanford, CA 94305<br>
-Email: lantaoyu [at] cs.stanford.edu
+<address>
+ Industrial and Systems Engineering, Virginia Tech <br /> 114 Durham Hall, 1145 Perry Street <br /> Blacksburg, VA 24061
+</address>
+Email: boshen [at] vt.edu
 
