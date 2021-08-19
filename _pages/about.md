@@ -20,7 +20,7 @@ redirect_from:
 > ***`I am actively looking for academic positions.`***
 
 # Reseach Interest
-***Smart manufacturing*** promises a future of mass-producing highly personalized products via responsive autonomous manufacturing operations at a competitive cost. My reseach mainly focus on developing machine learning methods in smart manufacturing to ensure the quality and reliability of products, especially for **additive manufacturing**. In terms of methodologies, I am interested in **reinforcement learning**, **Bayesian optimization**, **Tensor data analytics**, **Federated learning**, **Physics-informed Machine Learning**, and **Adversarial Robustness**, etc.
+***[Smart manufacturing](https://en.wikipedia.org/wiki/Smart_manufacturing)*** promises a future of mass-producing highly personalized products via responsive autonomous manufacturing operations at a competitive cost. My reseach mainly focus on developing machine learning methods in smart manufacturing to ensure the quality and reliability of products, especially for **additive manufacturing**. In terms of methodologies, I am interested in **reinforcement learning**, **Bayesian optimization**, **Tensor data analytics**, **Federated learning**, **Physics-informed Machine Learning**, and **Adversarial Robustness**, etc.
 
 <!-- # Honors and Awards
 *  Runner-up for INFORMS QSR Industry Data Challenge (2020)
