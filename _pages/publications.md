@@ -8,7 +8,7 @@ author_profile: true
 * <b>Bo Shen,</b> Rongxuan Wang, Andrew Chung Chee Law, Rakesh Kamath, Hahn Choo, and Zhenyu (James) Kong. <b>Super Resolution for Multi-Sources Image Stream Data Using Smooth and Sparse Tensor Completion and Its Applications in Data Acquisition of Additive Manufacturing.</b> <i>Technometrics</i> (2021) <br>[[Paper]](https://www.tandfonline.com/doi/full/10.1080/00401706.2021.1905074)
      * Finalists for INFORMS QSR Best Refereed Paper Competition
      * Second place of poster competition in INFORMS & HFES Student Poster Competition, ISE, Virginia Tech, 2019
-*  Maede Maftouni, Andrew Chung Chee Law, <b>Bo Shen,</b>, Yanze Zhou, Niloofar Ayoobi Yazdi, and Zhenyu (James) Kong. <b>A Robust Ensemble-Deep Learning Model for COVID-19 Diagnosis based on an Integrated CT Scan Images Database.</b> <i>Conference: Proceedings of the 2021 IISE Annual Conference</i> <br>[[Paper]](https://www.researchgate.net/publication/352296409_A_Robust_Ensemble-Deep_Learning_Model_for_COVID-19_Diagnosis_based_on_an_Integrated_CT_Scan_Images_Database)
+*  Maede Maftouni, Andrew Chung Chee Law, <b>Bo Shen,</b> Yanze Zhou, Niloofar Ayoobi Yazdi, and Zhenyu (James) Kong. <b>A Robust Ensemble-Deep Learning Model for COVID-19 Diagnosis based on an Integrated CT Scan Images Database.</b> <i>Conference: Proceedings of the 2021 IISE Annual Conference</i> <br>[[Paper]](https://www.researchgate.net/publication/352296409_A_Robust_Ensemble-Deep_Learning_Model_for_COVID-19_Diagnosis_based_on_an_Integrated_CT_Scan_Images_Database)
      * Runner-up for INFORMS QSR Industry Data Challenge
      * Second place of poster competition in INFORMS & HFES Student Poster Competition, ISE, Virginia Tech, 2020
 
@@ -23,4 +23,4 @@ author_profile: true
 * Maede Maftouni, <b>Bo Shen,</b> Andrew Chung Chee Law, and Zhenyu (James) Kong. <b> Attention-based Video Object Segmentation of Melting Pool.</b> to be submitted to <i>IISE Transactions.</i> (2021)
 * Raghav Gnanasambandam, <b>Bo Shen,</b> and Zhenyu (James) Kong. <b> Bayesian Optimization Using Deep Gaussian Process with its Application in Process Optimization for Additive Manufacturing.</b> to be submitted to <i>ASME Trans. Journal of Manufacturing Science and Engineering.</i> (2021)
 * Rongxuan Wang, David Garcia, <b>Bo Shen,</b> Xiaohan Ma, Rakesh Kamath, Hahn Choo, and Zhenyu (James) Kong. <b>In-process Multi-physical Melt Pool Characteristics Sensing and Data Correlation in Laser Powder Bed Fusion.</b> to be submitted (2021)
-* <b>Bo Shen,</b> and Zhenyu (James) Kong. <b>Federated Learning in Additive Manufacturing.</b> Ongoing Work
+* <b>Bo Shen</b> and Zhenyu (James) Kong. <b>Federated Learning in Additive Manufacturing.</b> Ongoing Work
