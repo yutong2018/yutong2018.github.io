@@ -23,13 +23,13 @@ redirect_from:
 My reseach mainly focus on machine learning and their application in advanced manufacturing, especially **additive manufacturing**. In terms of methodology, I am interested in 
 **reinforcement learning**, **Bayesian optimization**, **Tensor data analytics**, **Federated learning**, **Industrial Internet of Things**, and **Adversarial Robustness**.
 
-# Honors and Awards
+<!-- # Honors and Awards
 *  Runner-up for INFORMS QSR Industry Data Challenge (2020)
 *  Finalists for INFORMS QSR Best Refereed Paper Competition (2020)
 *  Second place of poster competition in INFORMS & HFES Student Poster Competition, ISE, Virginia Tech (2019, 2020)
 *  ISE Graduate Student Travel Awards, Virginia Tech (2018–2021)
 *  Grado Department of Industrial & Systems Engineering Department Fellowship, Virginia Tech (2017)
-*  Undergraduate Fellowship, USTC (2014–2017)
+*  Undergraduate Fellowship, USTC (2014–2017) -->
 
 # Academic Services
 *  **Session Chair**: Data Mining and Machine Learning in Smart Manufacturing, INFORMS Annual Conference 2021
