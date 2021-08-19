@@ -100,8 +100,11 @@
       {% if author.vine %}
         <li><a href="https://vine.co/u/{{ author.vine }}"><i class="fa fa-fw fa-vine" aria-hidden="true"></i> Vine</a></li>
       {% endif %}
-      {% if author.googlescholar %}
+<!--       {% if author.googlescholar %}
         <li><a href="{{ author.googlescholar }}"><i class="fa fa-fw fa-chain" aria-hidden="true"></i> Google Scholar</a></li>
+      {% endif %} -->
+      {% if author.googlescholar %}
+        <li><a href="{{ author.googlescholar }}"><i class="fas fa-graduation-cap"></i> Google Scholar</a></li>
       {% endif %}
       {% if author.orcid %}
         <li><a href="{{ author.orcid }}"><i class="fa fa-fw fa-chain" aria-hidden="true"></i> ORCID</a></li>
