@@ -104,10 +104,10 @@
         <li><a href="{{ author.googlescholar }}"><i class="fa fa-fw fa-chain" aria-hidden="true"></i> Google Scholar</a></li>
       {% endif %} -->
       {% if author.googlescholar %}
-        <li><a href="{{ author.googlescholar }}"><i class="fa fa-fw fa-google"></i> Google Scholar</a></li>
+        <li><a href="{{ author.googlescholar }}"><i class="fa fa-fw fa-google" aria-hidden="true"></i> Google Scholar</a></li>
       {% endif %}
       {% if author.orcid %}
-        <li><a href="{{ author.orcid }}"><i class="ai ai-orcid-square ai-fw" aria-hidden="true"></i> ORCID</a></li>
+        <li><a href="{{ author.orcid }}"><i class="fa fa-fw fa-chain" aria-hidden="true"></i> ORCID</a></li>
       {% endif %}
       {% if author.wikipedia %}
         <li><a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fa fa-fw fa-chain" aria-hidden="true"></i> Wikipedia</a></li>
