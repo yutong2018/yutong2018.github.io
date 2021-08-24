@@ -17,7 +17,27 @@ redirect_from:
    * Some of my profiles are available: [[Curriculum Vitae](https://boshen0.github.io/files/BoCV.pdf)] [[Google Scholar](https://scholar.google.com/citations?user=OO3dy4wAAAAJ&hl=en)] [[ResearchGate](https://www.researchgate.net/profile/Bo-Shen-22)]
 * I received my B.S. of Statistics from [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/)  in 2017.
 
-> ***`I am actively looking for academic positions.`***
+<!-- > ***`I am actively looking for academic positions.`*** -->
+<table>
+  <thead>
+    <tr>
+      <td align="left">
+        :memo: I’m graduating soon!
+      </td>
+    </tr>
+  </thead>
+
+  <tbody>
+    <tr>
+      <td>
+        <ul>
+          I am actively looking for academic positions.
+<!--           <li>Tis not true.</li> -->
+         </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 # Reseach Interest
 ***[Smart manufacturing](https://en.wikipedia.org/wiki/Smart_manufacturing)*** promises a future of mass-producing highly personalized products via responsive autonomous manufacturing operations at a competitive cost. My reseach mainly focus on developing advanced machine learning methods and stochastic models to ensure the quality and reliability of products in smart manufacturing, especially for **additive manufacturing**. In terms of methodologies, I am interested in **Adversarial robustness**, **Bayesian optimization**, **Federated learning**, **Physics-informed machine learning**, **Reinforcement learning**, and **Tensor data analytics**, etc.
