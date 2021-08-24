@@ -22,7 +22,7 @@ redirect_from:
   <thead>
     <tr>
       <td align="left">
-        :memo: I’m graduating soon!
+        :information_source: Information
       </td>
     </tr>
   </thead>
@@ -31,9 +31,9 @@ redirect_from:
     <tr>
       <td>
         <ul>
-          I am actively looking for academic positions.
-<!--           <li>Tis not true.</li> -->
-         </ul>
+          <li>Tis not true.</li>
+          <li>I won't explode.</li>
+        </ul>
       </td>
     </tr>
   </tbody>
