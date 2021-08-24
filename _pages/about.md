@@ -17,6 +17,8 @@ redirect_from:
    * Some of my profiles are available: [[Curriculum Vitae](https://boshen0.github.io/files/BoCV.pdf)] [[Google Scholar](https://scholar.google.com/citations?user=OO3dy4wAAAAJ&hl=en)] [[ResearchGate](https://www.researchgate.net/profile/Bo-Shen-22)]
 * I received my B.S. of Statistics from [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/)  in 2017.
 
+> :warning: **If you are using mobile browser**: Be very careful here!
+
 :information_source: >  **`I am actively looking for academic positions.`**
 
 # Reseach Interest
