@@ -266,7 +266,7 @@ whitelist:
   - jekyll-feed
   - jemoji
 
-plugins:
+gems:
   - jemoji
 # Archives
 #  Type
