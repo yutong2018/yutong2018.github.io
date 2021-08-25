@@ -9,6 +9,6 @@ Industrial and Systems Engineering, Virginia Tech<br>
 Blacksburg, VA 24061
 <!-- Email: boshen [at] vt.edu -->
 <!-- <boshen@vt.edu> -->
-> :email: [example@gitlab.com](mailto:example@gitlab.com) 
+> :email: [boshen@vt.edu](mailto:boshen@vt.edu) 
 > 
 > **`If you are interested in my research, please do not hesitate to contact me.`**
