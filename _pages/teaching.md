@@ -12,4 +12,4 @@ author_profile: true
 # Academic Services
 *  **Session Chair**: Data Mining and Machine Learning in Smart Manufacturing, INFORMS Annual Conference 2021
 *  **Journal Referee**: IISE Transactions, IEEE Transactions on Automation Science and Engineering
-*  **VP Finance**: The INFORMS Student Chapter at Virginia Tech
+*  **VP Finance**: The INFORMS Student Chapter at Virginia Tech (2021-2022)
