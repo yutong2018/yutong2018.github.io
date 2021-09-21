@@ -22,7 +22,7 @@ redirect_from:
  
 
 # Reseach Interest
-***[Smart manufacturing](https://en.wikipedia.org/wiki/Smart_manufacturing)*** promises a future of mass-producing highly personalized products via responsive autonomous manufacturing operations at a competitive cost. My reseach mainly focus on developing advanced machine learning methods and stochastic models to ensure the quality and reliability of products in smart manufacturing, especially for **additive manufacturing**. In terms of methodologies, I am interested in **Adversarial robustness**, **Bayesian optimization**, **Federated learning**, **Physics-informed machine learning**, **Reinforcement learning**, and **Tensor data analytics**, etc.
+In the era of Industrial 4.0, ***[advanced manufacturing](https://en.wikipedia.org/wiki/Advanced_manufacturing)*** promises a future of mass-producing highly personalized products via responsive autonomous manufacturing operations at a competitive cost. My reseach mainly focus on developing advanced machine learning methods and stochastic models to ensure the quality and reliability of products in smart manufacturing, especially for **additive manufacturing**. In terms of methodologies, I am interested in **Adversarial robustness**, **Bayesian optimization**, **Federated learning**, **Physics-informed machine learning**, **Reinforcement learning**, and **Tensor data analytics**, etc.
 
 <!-- # Honors and Awards
 *  Runner-up for INFORMS QSR Industry Data Challenge (2020)
