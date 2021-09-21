@@ -20,9 +20,12 @@ redirect_from:
 
 >  :memo: **`I am actively looking for academic positions!`**
  
+<p align="center">
+  <img src="https://boshen0.github.io/files/iceberg.png?raw=true" alt="Photo" style="width: 450px;"/> 
+</p>
 
 # Reseach Interest
-In the era of Industrial 4.0, ***[advanced manufacturing](https://en.wikipedia.org/wiki/Advanced_manufacturing)*** promises a future of mass-producing highly personalized products via responsive autonomous manufacturing operations at a competitive cost. My reseach mainly focus on developing advanced machine learning methods and stochastic models to ensure the quality and reliability of products in smart manufacturing, especially for **additive manufacturing**. In terms of methodologies, I am interested in **Adversarial robustness**, **Bayesian optimization**, **Federated learning**, **Physics-informed machine learning**, **Reinforcement learning**, and **Tensor data analytics**, etc.
+ ***[advanced manufacturing](https://en.wikipedia.org/wiki/Advanced_manufacturing)*** grows rapidly in the era of Industrial 4.0. Additive Manufacturing (AM), also called 3D printing, is a crucial component of advanced manufacturing systems, which promises a future of mass-producing highly personalized products at a competitive cost. The fast-growing sensor technology and simulation software provide a massive amount of data for AM processes. However, the information that can discovered by our human directly from the data is limited.  My reseach mainly focus on developing advanced machine learning methods to unreveal data information that is "underwater". I have successfully applied my methods to ensure the quality and reliability of products in **smart additive manufacturing**. In terms of methodologies, I am currently interested in **Adversarial robustness**, **Bayesian optimization**, **Federated learning**, **Physics-informed machine learning**, **Reinforcement learning**, and **Tensor data analytics**, etc. I would like to extend my research to the topics of **Cybersecurity** and **Industrial Internet of Things (IIoT)** in near future.
 
 <!-- # Honors and Awards
 *  Runner-up for INFORMS QSR Industry Data Challenge (2020)
