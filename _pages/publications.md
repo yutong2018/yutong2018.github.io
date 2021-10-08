@@ -9,7 +9,7 @@ author_profile: true
      * Finalists for INFORMS QSR Best Refereed Paper Competition
      * Second place of poster competition in INFORMS & HFES Student Poster Competition, ISE, Virginia Tech, 2019
 3. <b><ins>Bo Shen</ins></b>, Rakesh Kamath, Hahn Choo, and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">Robust Tensor Decomposition based Background/Foreground Separation in Noisy Videos and Its Applications in Additive Manufacturing.</span></b> Revision at <i>IEEE Transactions on Automation Science and Engineering.</i> (2021) <br>[[Preprint]](https://www.techrxiv.org/articles/preprint/Robust_Tensor_PCA_based_Background_Foreground_Separation_in_Noisy_Videos_and_Its_Applications_in_Additive_Manufacturing/14561775/2)
-4. <b><ins>Bo Shen</ins></b>, Raghav Gnanasambandam, Rongxuan Wang, and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">Multi-Task Gaussian Process Upper Confidence Bound for Hyperparameter Tuning.</span></b> Revision at <i>IISE Transactions.</i> (2021)  <br>[[Preprint]](https://doi.org/10.36227/techrxiv.16674400.v1) 
+4. <b><ins>Bo Shen</ins></b>, Raghav Gnanasambandam, Rongxuan Wang, and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">Multi-Task Gaussian Process Upper Confidence Bound for Hyperparameter Tuning.</span></b> Second round review at <i>IISE Transactions.</i> (2021)  <br>[[Preprint]](https://doi.org/10.36227/techrxiv.16674400.v1) 
 5. <b><ins>Bo Shen</ins></b> and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">A Novel Anomaly Discovery Method and its Applications in Additive Manufacturing.</span></b> Under review at <i>IISE Transactions.</i> (2021) <br>[[Preprint]](https://doi.org/10.36227/techrxiv.16674412.v1) 
 
 # Conference Papers 
