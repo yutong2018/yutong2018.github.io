@@ -3,7 +3,7 @@ title: ""
 permalink: /publications/
 author_profile: true
 ---
-# Publications Refereed [(Google Scholar Profile)](https://scholar.google.com/citations?user=OO3dy4wAAAAJ&hl=en)
+# Publications [(Google Scholar Profile)](https://scholar.google.com/citations?user=OO3dy4wAAAAJ&hl=en)
 1. <b><ins>Bo Shen</ins></b>, Weijun Xie, and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">Clustered Discriminant Regression for High Dimensional Data Feature Extraction and Its Applications in Healthcare and Additive Manufacturing.</span></b> <i>IEEE Transactions on Automation Science and Engineering</i> (2020) <br> [[Paper]](https://ieeexplore.ieee.org/document/9237105)
 2. <b><ins>Bo Shen</ins></b>, Rongxuan Wang, Andrew Chung Chee Law, Rakesh Kamath, Hahn Choo, and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">Super Resolution for Multi-Sources Image Stream Data Using Smooth and Sparse Tensor Completion and Its Applications in Data Acquisition of Additive Manufacturing.</span></b> <i>Technometrics</i> (2021) <br>[[Paper]](https://www.tandfonline.com/doi/full/10.1080/00401706.2021.1905074)
      * Finalists for INFORMS QSR Best Refereed Paper Competition
@@ -15,7 +15,7 @@ author_profile: true
      * Runner-up for INFORMS QSR Industry Data Challenge
      * Second place of poster competition in INFORMS & HFES Student Poster Competition, ISE, Virginia Tech, 2020
 
-# Publications in Preparation
+# Working Journal Papers (Draft Accomplished)
 7. <b><ins>Bo Shen</ins></b>, Weijun Xie, and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">Robust Tensor Principal Component Analysis: Formulation, Algorithm, and Applications.</span></b> To be submitted to <i>IEEE Transactions on Pattern Analysis and Machine Intelligence.</i> (2021)
 8. Jihoon Chung, <b><ins>Bo Shen</ins></b>, Andrew Chung Chee Law, and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">Reinforcement Learning based Process Knowledge Transfer for Quality Assurance of Additive Manufacturing.</span></b> To be submitted to <i>IEEE Transactions on Automation Science and Engineering.</i> (2021)
 9. Jihoon Chung, <b><ins>Bo Shen</ins></b>, and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">Sparse Bayesian Learning with Prior Knowledge and Temporally Correlated Solution Vectors with Application to Fault Diagnosis in Multi station Assembly Systems.</span></b> To be submitted to <i>Journal of Manufacturing Systems.</i> (2021)
