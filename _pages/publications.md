@@ -3,7 +3,7 @@ title: ""
 permalink: /publications/
 author_profile: true
 ---
-# Publications [(Google Scholar Profile)](https://scholar.google.com/citations?user=OO3dy4wAAAAJ&hl=en)
+# Journal Publications [(Google Scholar Profile)](https://scholar.google.com/citations?user=OO3dy4wAAAAJ&hl=en)
 1. <b><ins>Bo Shen</ins></b>, Weijun Xie, and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">Clustered Discriminant Regression for High Dimensional Data Feature Extraction and Its Applications in Healthcare and Additive Manufacturing.</span></b> <i>IEEE Transactions on Automation Science and Engineering</i> (2020) <br> [[Paper]](https://ieeexplore.ieee.org/document/9237105)
 2. <b><ins>Bo Shen</ins></b>, Rongxuan Wang, Andrew Chung Chee Law, Rakesh Kamath, Hahn Choo, and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">Super Resolution for Multi-Sources Image Stream Data Using Smooth and Sparse Tensor Completion and Its Applications in Data Acquisition of Additive Manufacturing.</span></b> <i>Technometrics</i> (2021) <br>[[Paper]](https://www.tandfonline.com/doi/full/10.1080/00401706.2021.1905074)
      * Finalists for INFORMS QSR Best Refereed Paper Competition
@@ -11,6 +11,8 @@ author_profile: true
 3. <b><ins>Bo Shen</ins></b>, Rakesh Kamath, Hahn Choo, and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">Robust Tensor Decomposition based Background/Foreground Separation in Noisy Videos and Its Applications in Additive Manufacturing.</span></b> Revision at <i>IEEE Transactions on Automation Science and Engineering.</i> (2021) <br>[[Preprint]](https://www.techrxiv.org/articles/preprint/Robust_Tensor_PCA_based_Background_Foreground_Separation_in_Noisy_Videos_and_Its_Applications_in_Additive_Manufacturing/14561775/2)
 4. <b><ins>Bo Shen</ins></b>, Raghav Gnanasambandam, Rongxuan Wang, and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">Multi-Task Gaussian Process Upper Confidence Bound for Hyperparameter Tuning.</span></b> Revision at <i>IISE Transactions.</i> (2021)  <br>[[Preprint]](https://doi.org/10.36227/techrxiv.16674400.v1) 
 5. <b><ins>Bo Shen</ins></b> and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">A Novel Anomaly Discovery Method and its Applications in Additive Manufacturing.</span></b> Under review at <i>IISE Transactions.</i> (2021) <br>[[Preprint]](https://doi.org/10.36227/techrxiv.16674412.v1) 
+
+# Conference Papers 
 6. Maede Maftouni, Andrew Chung Chee Law, <b><ins>Bo Shen</ins></b>, Yanze Zhou, Niloofar Ayoobi Yazdi, and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">A Robust Ensemble-Deep Learning Model for COVID-19 Diagnosis based on an Integrated CT Scan Images Database.</span></b> <i>Conference: Proceedings of the 2021 IISE Annual Conference</i> <br>[[Paper]](https://www.proquest.com/docview/2560887697)
      * Runner-up for INFORMS QSR Industry Data Challenge
      * Second place of poster competition in INFORMS & HFES Student Poster Competition, ISE, Virginia Tech, 2020
