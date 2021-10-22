@@ -10,6 +10,7 @@ author_profile: true
 * <b>Robust Tensor Decompositionbased Background/Foreground Separation in Noisy Videos and Its Applications in Additive Manufacturing</b>
      * INFORMS Annual Meeting, Anaheim, CA, 2021
 * <b>Super Resolution for Multi-Sources Image Stream Data using Smooth and Sparse Tensor Completion and its Applications in Data Acquisition of Additive Manufacturing</b>
+     * ICAM AI Symposium, Anaheim, CA, 2021 
      * INFORMS Annual Conference 2020 (Virtual)
      * IISE Annual Conference 2020 (Virtual)
 * <b>Robust Tensor Principal Component Analysis: Formulation, Algorithm, and Applications</b>
