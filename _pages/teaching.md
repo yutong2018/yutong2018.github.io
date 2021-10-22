@@ -11,5 +11,7 @@ author_profile: true
 
 # Academic Services
 *  **Session Chair**: Data Mining and Machine Learning in Smart Manufacturing, INFORMS Annual Conference 2021
+*  **Session Chair**: Physics Informed/Constrained Learning in Manufacturing and Healthcare Systems, IISE Annual Conference 2022
 *  **Journal Referee**: IISE Transactions, IEEE Transactions on Automation Science and Engineering
 *  **VP Finance**: The INFORMS Student Chapter at Virginia Tech (2021-2022)
+*  **Professional Society Memberships**: Institute of Industrial and Systems Engineers (IISE), Institute for Operation Research and the Management Sciences (INFORMS), Institute of Electrical and Electronics Engineers (IEEE)
