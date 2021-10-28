@@ -21,9 +21,9 @@ redirect_from:
 >  :memo: **`I am actively looking for academic positions!`**
  
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://boshen0.github.io/files/iceberg.png?raw=true" alt="Photo" style="width: 650px;"/> 
-</p>
+</p> -->
 # Reseach Interest
  ***[Advanced manufacturing](https://en.wikipedia.org/wiki/Advanced_manufacturing)*** grows rapidly in the era of Industrial 4.0. As a crucial component of advanced manufacturing systems, Additive Manufacturing (AM), also called 3D printing, promises a future of mass-producing highly personalized products at a competitive cost. The fast-growing sensor technology and simulation software provide a massive amount of data for AM processes. However, approximately 90 percent of data get wasted or unused.  My reseach mainly focus on developing advanced machine learning methods to unreveal data information that is "underwater". I have successfully applied my methods to ensure the quality and reliability of products in **smart additive manufacturing**. I am currently interested in **Adversarial robustness**, **Bayesian optimization**, **Federated learning**, **Physics-informed machine learning**, **Reinforcement learning**, and **Uncertainty quantification and reduction**, etc. I would like to keep working on my research at the interface of data science and advanced manufacturing. In the near future, I will extend my research to **Cybersecurity** and **Industrial Internet of Things (IIoT)**.
 
