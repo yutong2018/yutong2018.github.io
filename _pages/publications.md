@@ -14,19 +14,24 @@ author_profile: true
     * Finalists for INFORMS Data Mining Section Best Paper Award (Student Track)
 6. Rongxuan Wang, David Garcia, <b><ins>Bo Shen</ins></b>, Xiaohan Ma, Rakesh Kamath, Hahn Choo, and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">In-process Multi-physical Melt Pool Characteristics Sensing and Data Correlation in Laser Powder Bed Fusion.</span></b> Under review at <i>Additive Manufacturing.</i> (2021)
 
+
+
+
 # Conference Papers 
-6. Maede Maftouni, Andrew Chung Chee Law, <b><ins>Bo Shen</ins></b>, Yanze Zhou, Niloofar Ayoobi Yazdi, and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">A Robust Ensemble-Deep Learning Model for COVID-19 Diagnosis based on an Integrated CT Scan Images Database.</span></b> <i>Conference: Proceedings of the 2021 IISE Annual Conference</i> <br>[[Paper]](https://www.proquest.com/docview/2560887697) [[Code]](https://github.com/maftouni/Corona_CT_Classification) [[Dataset]](https://github.com/maftouni/Curated_Covid_CT)
+7. Maede Maftouni, Andrew Chung Chee Law, <b><ins>Bo Shen</ins></b>, Yanze Zhou, Niloofar Ayoobi Yazdi, and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">A Robust Ensemble-Deep Learning Model for COVID-19 Diagnosis based on an Integrated CT Scan Images Database.</span></b> <i>Conference: Proceedings of the 2021 IISE Annual Conference</i> <br>[[Paper]](https://www.proquest.com/docview/2560887697) [[Code]](https://github.com/maftouni/Corona_CT_Classification) [[Dataset]](https://github.com/maftouni/Curated_Covid_CT)
+
+
 
 
 # Working Journal Papers (Draft Accomplished)
-7. Maede Maftouni, <b><ins>Bo Shen</ins></b>, Andrew Chung Chee Law, and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">A Mask-guided Attention Deep Learning Model for COVID-19 Diagnosis based on an Integrated CT Scan Images Database.</span></b> To be submitted to <i>IISE Transactions on Healthcare Systems Engineering.</i> (2021)
+8. Maede Maftouni, <b><ins>Bo Shen</ins></b>, Andrew Chung Chee Law, and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">A Mask-guided Attention Deep Learning Model for COVID-19 Diagnosis based on an Integrated CT Scan Images Database.</span></b> To be submitted to <i>IISE Transactions on Healthcare Systems Engineering.</i> (2021)
      * Runner-up for INFORMS QSR Industry Data Challenge
      * Second place of poster competition in INFORMS & HFES Student Poster Competition, ISE, Virginia Tech, 2020
-8. <b><ins>Bo Shen</ins></b>, Weijun Xie, and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">Robust Tensor Principal Component Analysis: Formulation, Algorithm, and Applications.</span></b> To be submitted to <i>IEEE Transactions on Pattern Analysis and Machine Intelligence.</i> (2021)
-9. Jihoon Chung, <b><ins>Bo Shen</ins></b>, Andrew Chung Chee Law, and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">Reinforcement Learning based Process Knowledge Transfer for Quality Assurance of Additive Manufacturing.</span></b> To be submitted to <i>IEEE Transactions on Automation Science and Engineering.</i> (2021)
-10. Jihoon Chung, <b><ins>Bo Shen</ins></b>, and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">Sparse Bayesian Learning with Prior Knowledge and Temporally Correlated Solution Vectors with Application to Fault Diagnosis in Multi station Assembly Systems.</span></b> To be submitted to <i>Journal of Manufacturing Systems.</i> (2021)
-11. Maede Maftouni, <b><ins>Bo Shen</ins></b>, Andrew Chung Chee Law, and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">Attention-based Video Object Segmentation of Melting Pool.</span></b> To be submitted to <i>IISE Transactions.</i> (2021)
-12. Raghav Gnanasambandam, <b><ins>Bo Shen</ins></b>, and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">Bayesian Optimization using Deep Gaussian Process with its Application in Process Optimization for Additive Manufacturing.</span></b> To be submitted to <i>ASME Trans. Journal of Manufacturing Science and Engineering.</i> (2021)
+9. <b><ins>Bo Shen</ins></b>, Weijun Xie, and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">Robust Tensor Principal Component Analysis: Formulation, Algorithm, and Applications.</span></b> To be submitted to <i>IEEE Transactions on Pattern Analysis and Machine Intelligence.</i> (2021)
+10. Jihoon Chung, <b><ins>Bo Shen</ins></b>, Andrew Chung Chee Law, and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">Reinforcement Learning based Process Knowledge Transfer for Quality Assurance of Additive Manufacturing.</span></b> To be submitted to <i>IEEE Transactions on Automation Science and Engineering.</i> (2021)
+11. Jihoon Chung, <b><ins>Bo Shen</ins></b>, and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">Sparse Bayesian Learning with Prior Knowledge and Temporally Correlated Solution Vectors with Application to Fault Diagnosis in Multi station Assembly Systems.</span></b> To be submitted to <i>Journal of Manufacturing Systems.</i> (2021)
+12. Maede Maftouni, <b><ins>Bo Shen</ins></b>, Andrew Chung Chee Law, and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">Attention-based Video Object Segmentation of Melting Pool.</span></b> To be submitted to <i>IISE Transactions.</i> (2021)
+13. Raghav Gnanasambandam, <b><ins>Bo Shen</ins></b>, and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">Bayesian Optimization using Deep Gaussian Process with its Application in Process Optimization for Additive Manufacturing.</span></b> To be submitted to <i>ASME Trans. Journal of Manufacturing Science and Engineering.</i> (2021)
 {% comment %} 
 14. <b><ins>Bo Shen</ins></b> and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">Cybersecurity Defences on Adversarial Attacks on Monitoring Sensors in Additive Manufacturing Control Systems.</span></b> <i>Ongoing Work.</i>
 {% endcomment %}
