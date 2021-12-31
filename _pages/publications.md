@@ -20,9 +20,8 @@ author_profile: true
 # Conference Papers 
 
 
-
-
 {:start="7"}
+
 7. Maede Maftouni, Andrew Chung Chee Law, <b><ins>Bo Shen</ins></b>, Yanze Zhou, Niloofar Ayoobi Yazdi, and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">A Robust Ensemble-Deep Learning Model for COVID-19 Diagnosis based on an Integrated CT Scan Images Database.</span></b> <i>Conference: Proceedings of the 2021 IISE Annual Conference</i> <br>[[Paper]](https://www.proquest.com/docview/2560887697) [[Code]](https://github.com/maftouni/Corona_CT_Classification) [[Dataset]](https://github.com/maftouni/Curated_Covid_CT)
 
 
@@ -30,9 +29,8 @@ author_profile: true
 
 # Working Journal Papers (Draft Accomplished)
 
-
-
 {:start="8"}
+
 8. Maede Maftouni, <b><ins>Bo Shen</ins></b>, Andrew Chung Chee Law, and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">A Mask-guided Attention Deep Learning Model for COVID-19 Diagnosis based on an Integrated CT Scan Images Database.</span></b> To be submitted to <i>IISE Transactions on Healthcare Systems Engineering.</i> (2021)
      * Runner-up for INFORMS QSR Industry Data Challenge
      * Second place of poster competition in INFORMS & HFES Student Poster Competition, ISE, Virginia Tech, 2020
