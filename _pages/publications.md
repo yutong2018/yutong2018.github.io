@@ -9,7 +9,7 @@ author_profile: true
      * Finalists for INFORMS QSR Best Refereed Paper Competition
      * Second place of poster competition in INFORMS & HFES Student Poster Competition, ISE, Virginia Tech, 2019
 3. <b><ins>Bo Shen</ins></b>, Rakesh Kamath, Hahn Choo, and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">Robust Tensor Decomposition based Background/Foreground Separation in Noisy Videos and Its Applications in Additive Manufacturing.</span></b> Revision at <i>IEEE Transactions on Automation Science and Engineering.</i> (2021) <br>[[Preprint]](https://www.techrxiv.org/articles/preprint/Robust_Tensor_PCA_based_Background_Foreground_Separation_in_Noisy_Videos_and_Its_Applications_in_Additive_Manufacturing/14561775/2)
-4. <b><ins>Bo Shen</ins></b>, Raghav Gnanasambandam, Rongxuan Wang, and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">Multi-Task Gaussian Process Upper Confidence Bound for Hyperparameter Tuning.</span></b> Second round review at <i>IISE Transactions.</i> (2021)  <br>[[Preprint]](https://doi.org/10.36227/techrxiv.16674400.v1) 
+4. <b><ins>Bo Shen</ins></b>, Raghav Gnanasambandam, Rongxuan Wang, and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">Multi-Task Gaussian Process Upper Confidence Bound for Hyperparameter Tuning.</span></b> <i>IISE Transactions.</i> (2021)  <br>[[Preprint]](https://doi.org/10.36227/techrxiv.16674400.v1) 
 5. <b><ins>Bo Shen</ins></b> and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">A Novel Anomaly Discovery Method and its Applications in Additive Manufacturing.</span></b> Under review at <i>IISE Transactions.</i> (2021) <br>[[Preprint]](https://doi.org/10.36227/techrxiv.16674412.v1) 
     * Finalists for INFORMS Data Mining Section Best Paper Award (Student Track)
 6. Rongxuan Wang, David Garcia, <b><ins>Bo Shen</ins></b>, Xiaohan Ma, Rakesh Kamath, Hahn Choo, and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">In-process Multi-physical Melt Pool Characteristics Sensing and Data Correlation in Laser Powder Bed Fusion.</span></b> Under review at <i>Additive Manufacturing.</i> (2021)
@@ -25,10 +25,9 @@ author_profile: true
 8. <b><ins>Bo Shen</ins></b>, Weijun Xie, and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">Robust Tensor Principal Component Analysis: Formulation, Algorithm, and Applications.</span></b> To be submitted to <i>IEEE Transactions on Pattern Analysis and Machine Intelligence.</i> (2021)
 9. Jihoon Chung, <b><ins>Bo Shen</ins></b>, Andrew Chung Chee Law, and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">Reinforcement Learning based Process Knowledge Transfer for Quality Assurance of Additive Manufacturing.</span></b> To be submitted to <i>IEEE Transactions on Automation Science and Engineering.</i> (2021)
 10. Jihoon Chung, <b><ins>Bo Shen</ins></b>, and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">Sparse Bayesian Learning with Prior Knowledge and Temporally Correlated Solution Vectors with Application to Fault Diagnosis in Multi station Assembly Systems.</span></b> To be submitted to <i>Journal of Manufacturing Systems.</i> (2021)
-
-{% comment %} 
 11. Maede Maftouni, <b><ins>Bo Shen</ins></b>, Andrew Chung Chee Law, and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">Attention-based Video Object Segmentation of Melting Pool.</span></b> To be submitted to <i>IISE Transactions.</i> (2021)
 12. Raghav Gnanasambandam, <b><ins>Bo Shen</ins></b>, and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">Bayesian Optimization using Deep Gaussian Process with its Application in Process Optimization for Additive Manufacturing.</span></b> To be submitted to <i>ASME Trans. Journal of Manufacturing Science and Engineering.</i> (2021)
+{% comment %} 
 14. <b><ins>Bo Shen</ins></b> and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">Cybersecurity Defences on Adversarial Attacks on Monitoring Sensors in Additive Manufacturing Control Systems.</span></b> <i>Ongoing Work.</i>
 {% endcomment %}
 
