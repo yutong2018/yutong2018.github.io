@@ -32,6 +32,7 @@ author_profile: true
 # Working Journal Papers (Draft Accomplished)
 
 {:start="9"}
+
 9. <b><ins>Bo Shen</ins></b>, Weijun Xie, and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">Robust Tensor Principal Component Analysis: Formulation, Algorithm, and Applications.</span></b> To be submitted to <i>IEEE Transactions on Pattern Analysis and Machine Intelligence.</i> (2022)
 10. Jihoon Chung, <b><ins>Bo Shen</ins></b>, Andrew Chung Chee Law, and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">Reinforcement Learning based Process Knowledge Transfer for Quality Assurance of Additive Manufacturing.</span></b> To be submitted to <i>IEEE Transactions on Automation Science and Engineering.</i> (2022)
 11. Jihoon Chung, <b><ins>Bo Shen</ins></b>, and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">Sparse Bayesian Learning with Prior Knowledge and Temporally Correlated Solution Vectors with Application to Fault Diagnosis in Multi station Assembly Systems.</span></b> To be submitted to <i>Journal of Manufacturing Systems.</i> (2022)
