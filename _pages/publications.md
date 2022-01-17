@@ -13,7 +13,7 @@ author_profile: true
 5. <b><ins>Bo Shen</ins></b> and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">A Novel Anomaly Discovery Method and its Applications in Additive Manufacturing.</span></b> Under review at <i>IISE Transactions.</i> (2021) <br>[[Preprint]](https://doi.org/10.36227/techrxiv.16674412.v1) 
     * Finalists for INFORMS Data Mining Section Best Paper Award (Student Track)
 6. Rongxuan Wang, David Garcia, <b><ins>Bo Shen</ins></b>, Xiaohan Ma, Rakesh Kamath, Hahn Choo, and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">In-process Multi-physical Melt Pool Characteristics Sensing and Data Correlation in Laser Powder Bed Fusion.</span></b> Under review at <i>Additive Manufacturing.</i> (2021)
-7. Maede Maftouni, <b><ins>Bo Shen</ins></b>, Andrew Chung Chee Law, and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">A Mask-guided Attention Deep Learning Model for COVID-19 Diagnosis based on an Integrated CT Scan Images Database.</span></b> Under review at <i>IISE Transactions on Healthcare Systems Engineering.</i> (2022)
+7. Maede Maftouni, <b><ins>Bo Shen</ins></b>, Andrew Chung Chee Law, and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">A Mask-guided Attention Deep Learning Model for COVID-19 Diagnosis based on an Integrated CT Scan Images Database.</span></b> Under review at <i>IISE Transactions on Healthcare Systems Engineering.</i> (2022) <br>[[Preprint]](https://doi.org/10.36227/techrxiv.18166667.v1)
      * Runner-up for INFORMS QSR Industry Data Challenge
      * Second place of poster competition in INFORMS & HFES Student Poster Competition, ISE, Virginia Tech, 2020
 
