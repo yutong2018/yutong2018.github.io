@@ -4,6 +4,7 @@ title: "Awards & Honors"
 permalink: /awards/
 author_profile: true
 ---
+*  ISE Outstanding PhD Student of the Year, Virginia Tech (2022)
 *  Finalists for INFORMS Data Mining Section Best Paper Award (Student Track, 2021)
 *  Runner-up for INFORMS QSR Industry Data Challenge (2020)
 *  Finalists for INFORMS QSR Best Refereed Paper Competition (4 finalists in total, 2020)
