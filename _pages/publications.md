@@ -36,11 +36,11 @@ author_profile: true
 9. <b><ins>Bo Shen</ins></b>, Weijun Xie, and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">Robust Tensor Principal Component Analysis: Formulation, Algorithm, and Applications.</span></b> To be submitted to <i>IEEE Transactions on Pattern Analysis and Machine Intelligence.</i> (2022)
 10. Jihoon Chung, <b><ins>Bo Shen</ins></b>, Andrew Chung Chee Law, and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">Reinforcement Learning based Process Knowledge Transfer for Quality Assurance of Additive Manufacturing.</span></b> To be submitted to <i>IEEE Transactions on Automation Science and Engineering.</i> (2022)
 11. Jihoon Chung, <b><ins>Bo Shen</ins></b>, and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">Sparse Bayesian Learning with Prior Knowledge and Temporally Correlated Solution Vectors with Application to Fault Diagnosis in Multi station Assembly Systems.</span></b> To be submitted to <i>Journal of Manufacturing Systems.</i> (2022)
-12. Maede Maftouni, <b><ins>Bo Shen</ins></b>, Andrew Chung Chee Law, and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">Automatic Melt Pool Segmentation and Tracking in the X-ray Image Sequence.</span></b> To be submitted to <i>IISE Transactions.</i> (2022)
+12. Maede Maftouni, <b><ins>Bo Shen</ins></b>, Andrew Chung Chee Law, Rongxuan Wang, and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">Automatic Melt Pool Segmentation and Tracking in the X-ray Image Sequence.</span></b> To be submitted to <i>IISE Transactions.</i> (2022)
 
 {% comment %} 
-13. Raghav Gnanasambandam, <b><ins>Bo Shen</ins></b>, and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">Bayesian Optimization using Deep Gaussian Process with its Application in Process Optimization for Additive Manufacturing.</span></b> To be submitted to <i>ASME Trans. Journal of Manufacturing Science and Engineering.</i> (2022)
-14. <b><ins>Bo Shen</ins></b> and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">Cybersecurity Defences on Adversarial Attacks on Monitoring Sensors in Additive Manufacturing Control Systems.</span></b> <i>Ongoing Work.</i>
+13. Jihoon Chung, <b><ins>Bo Shen</ins></b>, Andrew Chung Chee Law, and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">Classifier-guided Data Augmentation using Wasserstein Generative Adversarial Network.</span></b> To be submitted to <i>IEEE Transactions on Automation Science and Engineering.</i> (2022)
+14. Raghav Gnanasambandam, <b><ins>Bo Shen</ins></b>, and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">Bayesian Optimization using Deep Gaussian Process with its Application in Process Optimization for Additive Manufacturing.</span></b> To be submitted to <i>ASME Trans. Journal of Manufacturing Science and Engineering.</i> (2022)
 {% endcomment %}
 
 
