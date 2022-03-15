@@ -33,14 +33,15 @@ author_profile: true
 
 {:start="10"}
 
-10. <b><ins>Bo Shen</ins></b>, Weijun Xie, and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">Robust Tensor Principal Component Analysis: Formulation, Algorithm, and Applications.</span></b> To be submitted to <i>IEEE Transactions on Pattern Analysis and Machine Intelligence.</i> (2022)
+10. <b><ins>Bo Shen</ins></b>, Weijun Xie, and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">Robust Tensor Principal Component Analysis: Formulation, Algorithm, and Applications.</span></b> To be submitted to <i>Journal of Machine Learning Research.</i> (2022)
 11. Jihoon Chung, <b><ins>Bo Shen</ins></b>, and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">Sparse Bayesian Learning with Prior Knowledge and Temporally Correlated Solution Vectors with Application to Fault Diagnosis in Multi station Assembly Systems.</span></b> To be submitted to <i>Journal of Manufacturing Systems.</i> (2022)
-12. Maede Maftouni, <b><ins>Bo Shen</ins></b>, Andrew Chung Chee Law, Rongxuan Wang, and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">Automatic Melt Pool Segmentation and Tracking in the X-ray Image Sequence.</span></b> To be submitted to <i>IISE Transactions.</i> (2022)
-13. Raghav Gnanasambandam, <b><ins>Bo Shen</ins></b>, and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">Deep Gaussian Process Upper Confidence Bound for Optimizing Non-Stationary Functions and its Application in Additive Manufacturing.</span></b> To be submitted to <i>ASME Trans. Journal of Manufacturing Science and Engineering.</i> (2022)
+12. Jihoon Chung, <b><ins>Bo Shen</ins></b>, and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">Imbalanced Data Classification via Generative Adversarial Network with Applications in Cyber-Physical Attack Detection in Additive Manufacturing Processes.</span></b> To be submitted to <i>ASME Trans. Journal of Manufacturing Science and Engineering.</i> (2022)
+13. Maede Maftouni, <b><ins>Bo Shen</ins></b>, Andrew Chung Chee Law, Rongxuan Wang, and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">Automatic Melt Pool Segmentation and Tracking in the X-ray Image Sequence.</span></b> To be submitted to <i>IISE Transactions.</i> (2022)
+14. Raghav Gnanasambandam, <b><ins>Bo Shen</ins></b>, Andrew Chung Chee Law, and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">Deep Gaussian Process Upper Confidence Bound for Optimizing Non-Stationary Functions and its Application in Additive Manufacturing.</span></b> To be submitted to <i>ASME Trans. Journal of Manufacturing Science and Engineering.</i> (2022)
+15. Andrew Chung Chee Law, Maede Maftouni, <b><ins>Bo Shen</ins></b>, and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">Forward Prediction of Residual
+Stress Formation in Laser Powder Bed Fusion using Deep Neural Network.</span></b> To be submitted to <i>Manufacturing Letter.</i> (2022) 
 
 {% comment %} 
-14. Jihoon Chung, <b><ins>Bo Shen</ins></b>, Andrew Chung Chee Law, and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">Classifier-guided Data Augmentation using Wasserstein Generative Adversarial Network.</span></b> To be submitted to <i>IEEE Transactions on Automation Science and Engineering.</i> (2022)
-15. Andrew Chung Chee Law, Maede Maftouni, <b><ins>Bo Shen</ins></b>, and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">Residual Stress Prediction in Metal Additive Manufacturing.</span></b> To be submitted to <i>Manufacturing Letter.</i> (2022)
 16. <b><span style="color:RoyalBlue">A Novel Activation Function in Physics-informed Neural Networks.</span></b> To be submitted (2022)
 {% endcomment %}
 
