@@ -41,6 +41,7 @@ author_profile: true
 {% comment %} 
 14. Jihoon Chung, <b><ins>Bo Shen</ins></b>, Andrew Chung Chee Law, and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">Classifier-guided Data Augmentation using Wasserstein Generative Adversarial Network.</span></b> To be submitted to <i>IEEE Transactions on Automation Science and Engineering.</i> (2022)
 15. Andrew Chung Chee Law, Maede Maftouni, <b><ins>Bo Shen</ins></b>, and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">Residual Stress Prediction in Metal Additive Manufacturing.</span></b> To be submitted to <i>Manufacturing Letter.</i> (2022)
+16. <b><span style="color:RoyalBlue">A Novel Activation Function in Physics-informed Neural Networks.</span></b> To be submitted (2022)
 {% endcomment %}
 
 
