@@ -42,4 +42,4 @@ Stress Formation in Laser Powder Bed Fusion using Deep Neural Network.</span></b
 9. Maede Maftouni, Andrew Chung Chee Law, <b><ins>Bo Shen</ins></b>, Yanze Zhou, Niloofar Ayoobi Yazdi, and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">A Robust Ensemble-Deep Learning Model for COVID-19 Diagnosis based on an Integrated CT Scan Images Database.</span></b> <i>Conference: Proceedings of the 2021 IISE Annual Conference</i> <br>[[Paper]](https://www.proquest.com/docview/2560887697) [[Code]](https://github.com/maftouni/Corona_CT_Classification) [[Dataset]](https://github.com/maftouni/Curated_Covid_CT) [[Poster]](http://boshen0.github.io/files/CovidIISE.pdf)
 
 # Notes
-16. <b><span style="color:RoyalBlue">Robust Tensor Principal Component Analysis: Exact Recovery via Deterministic Model.</span></b> <br>[[Preprint]](https://arxiv.org/abs/2008.02211)
+<b><span style="color:RoyalBlue">Robust Tensor Principal Component Analysis: Exact Recovery via Deterministic Model.</span></b> <br>[[Preprint]](https://arxiv.org/abs/2008.02211)
