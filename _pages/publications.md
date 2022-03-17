@@ -22,7 +22,7 @@ author_profile: true
 
 {:start="9"}
 
-10. <b><ins>Bo Shen</ins></b>, Weijun Xie, and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">Robust Tensor Principal Component Analysis: Formulation, Algorithm, and Applications.</span></b> To be submitted to <i>Journal of Machine Learning Research.</i> (2022)
+10. <b><ins>Bo Shen</ins></b>, Weijun Xie, and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">Robust Tensor Completion for Background/Foreground Separation: Novel Algorithm with Convergence Guarantee.</span></b> To be submitted to <i>Journal of Machine Learning Research.</i> (2022)
 11. Jihoon Chung, <b><ins>Bo Shen</ins></b>, and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">Sparse Bayesian Learning with Prior Knowledge and Temporally Correlated Solution Vectors with Application to Fault Diagnosis in Multi-station Assembly Systems.</span></b> To be submitted to <i>Journal of Manufacturing Systems.</i> (2022)
 12. Jihoon Chung, <b><ins>Bo Shen</ins></b>, and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">Imbalanced Data Classification via Generative Adversarial Network with Applications in Cyber-Physical Attack Detection in Additive Manufacturing Process.</span></b> To be submitted to <i>ASME Trans. Journal of Manufacturing Science and Engineering.</i> (2022)
 13. Maede Maftouni, <b><ins>Bo Shen</ins></b>, Andrew Chung Chee Law, Rongxuan Wang, and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">Automatic Melt Pool Segmentation and Tracking in the X-ray Image Sequence.</span></b> To be submitted to <i>IISE Transactions.</i> (2022)
@@ -41,4 +41,5 @@ Stress Formation in Laser Powder Bed Fusion using Deep Neural Network.</span></b
 
 9. Maede Maftouni, Andrew Chung Chee Law, <b><ins>Bo Shen</ins></b>, Yanze Zhou, Niloofar Ayoobi Yazdi, and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">A Robust Ensemble-Deep Learning Model for COVID-19 Diagnosis based on an Integrated CT Scan Images Database.</span></b> <i>Conference: Proceedings of the 2021 IISE Annual Conference</i> <br>[[Paper]](https://www.proquest.com/docview/2560887697) [[Code]](https://github.com/maftouni/Corona_CT_Classification) [[Dataset]](https://github.com/maftouni/Curated_Covid_CT) [[Poster]](http://boshen0.github.io/files/CovidIISE.pdf)
 
-
+# Notes
+16. <b><span style="color:RoyalBlue">Robust Tensor Principal Component Analysis: Exact Recovery via Deterministic Model.</span></b> <br>[[Preprint]](https://arxiv.org/abs/2008.02211)
