@@ -22,7 +22,7 @@ author_profile: true
 
 {:start="9"}
 
-10. <b><ins>Bo Shen</ins></b>, Weijun Xie, and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">Robust Tensor Completion for Background/Foreground Separation: Novel Algorithm with Convergence Guarantee.</span></b> To be submitted to <i>Journal of Machine Learning Research.</i> (2022) <br>[[Preprint]](https://arxiv.org/abs/2203.16328)
+10. <b><ins>Bo Shen</ins></b>, Weijun Xie, and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">Smooth Robust Tensor Completion for Background/Foreground Separation with Missing Pixels: Novel Algorithm with Convergence Guarantee.</span></b> To be submitted to <i>Journal of Machine Learning Research.</i> (2022) <br>[[Preprint]](https://arxiv.org/abs/2203.16328)
 11. Jihoon Chung, <b><ins>Bo Shen</ins></b>, and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">Sparse Bayesian Learning with Prior Knowledge and Temporally Correlated Solution Vectors with Application to Fault Diagnosis in Multi-station Assembly Systems.</span></b> To be submitted to <i>Journal of Manufacturing Systems.</i> (2022)
 12. Jihoon Chung, <b><ins>Bo Shen</ins></b>, and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">Imbalanced Data Classification via Generative Adversarial Network with Applications in Cyber-Physical Attack Detection in Additive Manufacturing Process.</span></b> To be submitted to <i>ASME Trans. Journal of Manufacturing Science and Engineering.</i> (2022)
 13. Maede Maftouni, <b><ins>Bo Shen</ins></b>, Andrew Chung Chee Law, Rongxuan Wang, and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">Automatic Melt Pool Segmentation and Tracking in the X-ray Image Sequence.</span></b> To be submitted to <i>IISE Transactions.</i> (2022)
