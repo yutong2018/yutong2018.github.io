@@ -4,7 +4,7 @@ title: "Awards & Honors"
 permalink: /awards/
 author_profile: true
 ---
-*  [Member of Graduate Academy for Teaching Excellence](http://vtgrate.org/membership/application-and-review/), Virginia Tech (2022)
+*  Member of [Graduate Academy for Teaching Excellence](http://vtgrate.org/membership/application-and-review/), Virginia Tech (2022)
 *  ISE Outstanding PhD Student of the Year, Virginia Tech (2022)
 *  Finalists for [INFORMS Data Mining Section Best Paper Award](https://connect.informs.org/data-mining/awards/prize/new-item222758667) (Student Track, 2021)
 *  Runner-up for [INFORMS QSR Industry Data Challenge](https://connect.informs.org/qsr/awards) (2020) 
