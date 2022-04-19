@@ -4,6 +4,7 @@ title: "Awards & Honors"
 permalink: /awards/
 author_profile: true
 ---
+*  Finalists for [IISE QCRE Best Student Paper Award](https://www.iise.org/Details.aspx?id=29058) (Winner will be selected in May, 2022)
 *  Member of [Graduate Academy for Teaching Excellence](http://vtgrate.org/membership/application-and-review/), Virginia Tech (2022)
 *  ISE Outstanding PhD Student of the Year, Virginia Tech (2022)
 *  Finalists for [INFORMS Data Mining Section Best Paper Award](https://connect.informs.org/data-mining/awards/prize/new-item222758667) (Student Track, 2021)
