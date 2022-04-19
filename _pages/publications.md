@@ -17,7 +17,7 @@ author_profile: true
      * Runner-up for INFORMS QSR Industry Data Challenge, 2020
      * Second place of poster competition in INFORMS & HFES Student Poster Competition, ISE, Virginia Tech, 2020
 8. Jihoon Chung, <b><ins>Bo Shen</ins></b>, Andrew Chung Chee Law, and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">Reinforcement Learning-based Defect Mitigation for Quality Assurance of Additive Manufacturing.</span></b> Under review at <i>Journal of Manufacturing Systems.</i> (2022)
-   * Finalists for IISE QCRE Best Student Paper Award (Winner will be selected in May, 2022)
+   * Finalists for IISE QCRE Division Best Student Paper Award (Winner will be selected in May, 2022)
 9. <b><ins>Bo Shen</ins></b>, Weijun Xie, and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">Smooth Robust Tensor Completion for Background/Foreground Separation with Missing Pixels: Novel Algorithm with Convergence Guarantee.</span></b> Submitted. (2022) <br>[[Preprint]](https://arxiv.org/abs/2203.16328)
 # Working Journal Papers (Draft Accomplished)
 
