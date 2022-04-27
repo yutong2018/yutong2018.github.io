@@ -12,27 +12,28 @@ author_profile: true
 4. <b><ins>Bo Shen</ins></b>, Rakesh Kamath, Hahn Choo, and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">Robust Tensor Decomposition based Background/Foreground Separation in Noisy Videos and Its Applications in Additive Manufacturing.</span></b>  <i>IEEE Transactions on Automation Science and Engineering.</i> (2022) <br>[[Paper]](https://doi.org/10.1109/TASE.2022.3163674)
 5. <b><ins>Bo Shen</ins></b> and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">A Novel Anomaly Discovery Method and its Applications in Additive Manufacturing.</span></b> Under review at <i>IISE Transactions.</i> (2022) <br>[[Preprint]](https://doi.org/10.36227/techrxiv.16674412.v1) 
     * Finalists for INFORMS Data Mining Section Best Paper Award (Student Track), 2021
-6. Rongxuan Wang, David Garcia, Chaoran Dou, <b><ins>Bo Shen</ins></b>, Xiaohan Ma, Rakesh Kamath, Hahn Choo, and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">In-process Multi-physical Melt Pool Characteristics Sensing and Data Correlation in Laser Powder Bed Fusion.</span></b> Under review at <i>Scientific Reports.</i> (2022)
-7. Maede Maftouni, <b><ins>Bo Shen</ins></b>, Andrew Chung Chee Law, and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">A Mask-guided Attention Deep Learning Model for COVID-19 Diagnosis based on an Integrated CT Scan Images Database.</span></b> Major revision at <i>IISE Transactions on Healthcare Systems Engineering.</i> (2022) <br>[[Preprint]](https://doi.org/10.36227/techrxiv.18166667.v1)
+6. Maede Maftouni, <b><ins>Bo Shen</ins></b>, Andrew Chung Chee Law, and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">A Mask-guided Attention Deep Learning Model for COVID-19 Diagnosis based on an Integrated CT Scan Images Database.</span></b> Major revision at <i>IISE Transactions on Healthcare Systems Engineering.</i> (2022) <br>[[Preprint]](https://doi.org/10.36227/techrxiv.18166667.v1)
      * Runner-up for INFORMS QSR Industry Data Challenge, 2020
      * Second place of poster competition in INFORMS & HFES Student Poster Competition, ISE, Virginia Tech, 2020
-8. Jihoon Chung, <b><ins>Bo Shen</ins></b>, Andrew Chung Chee Law, and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">Reinforcement Learning-based Defect Mitigation for Quality Assurance of Additive Manufacturing.</span></b> Under review at <i>Journal of Manufacturing Systems.</i> (2022)
+7. Jihoon Chung, <b><ins>Bo Shen</ins></b>, Andrew Chung Chee Law, and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">Reinforcement Learning-based Defect Mitigation for Quality Assurance of Additive Manufacturing.</span></b> Under review at <i>Journal of Manufacturing Systems.</i> (2022)
    * Finalists for IISE QCRE Division Best Student Paper Award (Winner will be selected in May, 2022)
-9. <b><ins>Bo Shen</ins></b>, Weijun Xie, and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">Smooth Robust Tensor Completion for Background/Foreground Separation with Missing Pixels: Novel Algorithm with Convergence Guarantee.</span></b> Submitted. (2022) <br>[[Preprint]](https://arxiv.org/abs/2203.16328)
+8. <b><ins>Bo Shen</ins></b>, Weijun Xie, and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">Smooth Robust Tensor Completion for Background/Foreground Separation with Missing Pixels: Novel Algorithm with Convergence Guarantee.</span></b> Submitted. (2022) <br>[[Preprint]](https://arxiv.org/abs/2203.16328)
+9. Rongxuan Wang, David Garcia, Chaoran Dou, <b><ins>Bo Shen</ins></b>, Xiaohan Ma, Rakesh Kamath, Hahn Choo, and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">In-process Multi-physical Melt Pool Characteristics Sensing and Data Correlation in Laser Powder Bed Fusion.</span></b> Under review at <i>Scientific Reports.</i> (2022)
+10. Jihoon Chung, <b><ins>Bo Shen</ins></b>, and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">A Novel Sparse Bayesian Learning and Its Application to Fault Diagnosis for Multi-station Assembly Systems.</span></b> Under review at <i>IISE Transactions.</i> (2022)
+
 # Working Journal Papers (Draft Accomplished)
 
-{:start="10"}
+{:start="11"}
 
-11. Jihoon Chung, <b><ins>Bo Shen</ins></b>, and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">Sparse Bayesian Learning with Prior Knowledge and Temporally Correlated Solution Vectors with Application to Fault Diagnosis in Multi-station Assembly Systems.</span></b> To be submitted to <i>Journal of Manufacturing Systems.</i> (2022)
-12. Jihoon Chung, <b><ins>Bo Shen</ins></b>, and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">Imbalanced Data Classification via Generative Adversarial Network with Applications in Cyber-Physical Attack Detection in Additive Manufacturing Process.</span></b> To be submitted to <i>ASME Trans. Journal of Manufacturing Science and Engineering.</i> (2022)
+11. Jihoon Chung, <b><ins>Bo Shen</ins></b>, and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">Imbalanced Data Classification via Generative Adversarial Network with Applications in Cyber-Physical Attack Detection in Additive Manufacturing Process.</span></b> To be submitted to <i>ASME Trans. Journal of Manufacturing Science and Engineering.</i> (2022)
+12. Raghav Gnanasambandam, <b><ins>Bo Shen</ins></b>, Jihoon Chung, Xubo Yue, and Zhenyu (James) Kong. <b><span style="color:RoyalBlue"> Self-scalable Tanh (Stan): Faster Convergence and Better Generalization in Physics-informed Neural Networks</span></b> To be submitted (2022)
 13. Maede Maftouni, <b><ins>Bo Shen</ins></b>, Andrew Chung Chee Law, Rongxuan Wang, and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">Automatic Melt Pool Segmentation and Tracking in the X-ray Image Sequence.</span></b> To be submitted to <i>IISE Transactions.</i> (2022)
 14. Raghav Gnanasambandam, <b><ins>Bo Shen</ins></b>, Andrew Chung Chee Law, and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">Deep Gaussian Process Upper Confidence Bound for Optimizing Non-Stationary Functions and its Application in Additive Manufacturing.</span></b> To be submitted to <i>ASME Trans. Journal of Manufacturing Science and Engineering.</i> (2022)
 15. Andrew Chung Chee Law, Maede Maftouni, <b><ins>Bo Shen</ins></b>, and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">Forward Prediction of Residual
 Stress Formation in Laser Powder Bed Fusion using Deep Neural Network.</span></b> To be submitted to <i>Manufacturing Letter.</i> (2022) 
 
-{% comment %} 
-16. <b><span style="color:RoyalBlue">A Novel Activation Function in Physics-informed Neural Networks.</span></b> To be submitted (2022)
-{% endcomment %}
+
+
 
 # Conference Papers 
 
