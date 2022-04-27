@@ -26,7 +26,7 @@ author_profile: true
 {:start="11"}
 
 11. Jihoon Chung, <b><ins>Bo Shen</ins></b>, and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">Imbalanced Data Classification via Generative Adversarial Network with Applications in Cyber-Physical Attack Detection in Additive Manufacturing Process.</span></b> To be submitted to <i>ASME Trans. Journal of Manufacturing Science and Engineering.</i> (2022)
-12. Raghav Gnanasambandam, <b><ins>Bo Shen</ins></b>, Jihoon Chung, Xubo Yue, and Zhenyu (James) Kong. <b><span style="color:RoyalBlue"> Self-scalable Tanh (Stan): Faster Convergence and Better Generalization in Physics-informed Neural Networks</span></b> To be submitted (2022)
+12. Raghav Gnanasambandam, <b><ins>Bo Shen</ins></b>, Jihoon Chung, Xubo Yue, and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">Self-scalable Tanh (Stan): Faster Convergence and Better Generalization in Physics-informed Neural Networks.</span></b> To be submitted (2022)
 13. Maede Maftouni, <b><ins>Bo Shen</ins></b>, Andrew Chung Chee Law, Rongxuan Wang, and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">Automatic Melt Pool Segmentation and Tracking in the X-ray Image Sequence.</span></b> To be submitted to <i>IISE Transactions.</i> (2022)
 14. Raghav Gnanasambandam, <b><ins>Bo Shen</ins></b>, Andrew Chung Chee Law, and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">Deep Gaussian Process Upper Confidence Bound for Optimizing Non-Stationary Functions and its Application in Additive Manufacturing.</span></b> To be submitted to <i>ASME Trans. Journal of Manufacturing Science and Engineering.</i> (2022)
 15. Andrew Chung Chee Law, Maede Maftouni, <b><ins>Bo Shen</ins></b>, and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">Forward Prediction of Residual
@@ -38,9 +38,9 @@ Stress Formation in Laser Powder Bed Fusion using Deep Neural Network.</span></b
 # Conference Papers 
 
 
-{:start="15"}
+{:start="16"}
 
-9. Maede Maftouni, Andrew Chung Chee Law, <b><ins>Bo Shen</ins></b>, Yanze Zhou, Niloofar Ayoobi Yazdi, and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">A Robust Ensemble-Deep Learning Model for COVID-19 Diagnosis based on an Integrated CT Scan Images Database.</span></b> <i>Conference: Proceedings of the 2021 IISE Annual Conference</i> <br>[[Paper]](https://www.proquest.com/docview/2560887697) [[Code]](https://github.com/maftouni/Corona_CT_Classification) [[Dataset]](https://github.com/maftouni/Curated_Covid_CT) [[Poster]](http://boshen0.github.io/files/CovidIISE.pdf)
+16. Maede Maftouni, Andrew Chung Chee Law, <b><ins>Bo Shen</ins></b>, Yanze Zhou, Niloofar Ayoobi Yazdi, and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">A Robust Ensemble-Deep Learning Model for COVID-19 Diagnosis based on an Integrated CT Scan Images Database.</span></b> <i>Conference: Proceedings of the 2021 IISE Annual Conference</i> <br>[[Paper]](https://www.proquest.com/docview/2560887697) [[Code]](https://github.com/maftouni/Corona_CT_Classification) [[Dataset]](https://github.com/maftouni/Curated_Covid_CT) [[Poster]](http://boshen0.github.io/files/CovidIISE.pdf)
 
 # Notes
 <b><span style="color:RoyalBlue">Robust Tensor Principal Component Analysis: Exact Recovery via Deterministic Model.</span></b> <br>[[Preprint]](https://arxiv.org/abs/2008.02211)
