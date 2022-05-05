@@ -14,14 +14,15 @@ redirect_from:
  -->
 # About Me
 * I am a 5th-year Ph.D. Candidate in the [Industrial and Systems Engineering](https://www.ise.vt.edu/) at [Virginia Tech](https://vt.edu/), advised by Prof. [Zhenyu (James) Kong](https://www.ise.vt.edu/people/faculty/kong.html). 
-   * I am graduating in 2022 spring.
+   * I am graduating in 2022 summer.
    * Some of my profiles are available: [[Curriculum Vitae](https://boshen0.github.io/files/BoCV.pdf)] [[Google Scholar](https://scholar.google.com/citations?user=OO3dy4wAAAAJ&hl=en)] [[ResearchGate](https://www.researchgate.net/profile/Bo-Shen-22)].
 * I received my B.S. of Statistics from [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/)  in 2017.
 
->  :memo: **`I am actively looking for academic positions!`**
+
  
 
 <!-- <p align="center">
+  >  :memo: **`I am actively looking for academic positions!`**
   <img src="https://boshen0.github.io/files/iceberg.png?raw=true" alt="Photo" style="width: 650px;"/> 
 </p> -->
 # Reseach Interest
