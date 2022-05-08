@@ -21,7 +21,7 @@ author_profile: true
 9. Rongxuan Wang, David Garcia, Rakesh Kamath, Chaoran Dou, Xiaohan Ma, <b><ins>Bo Shen</ins></b>,  Hahn Choo, Kamel Fezzaa, Hang Yu, and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">In-process Multi-physics Melt Pool Measurement and Correlation Analysis in Laser Powder Bed Fusion.</span></b> Under review at <i>Scientific Reports.</i> (2022) <br>[[Preprint]](https://www.researchsquare.com/article/rs-1581310/v1)
 10. Jihoon Chung, <b><ins>Bo Shen</ins></b>, and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">A Novel Sparse Bayesian Learning and Its Application to Fault Diagnosis for Multi-station Assembly Systems.</span></b> Under review at <i>IISE Transactions.</i> (2022)
 
-# Working Journal Papers (Draft Accomplished)
+# Working Journal Papers
 
 {:start="11"}
 
@@ -29,8 +29,8 @@ author_profile: true
 12. Raghav Gnanasambandam, <b><ins>Bo Shen</ins></b>, Jihoon Chung, Xubo Yue, and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">Self-scalable Tanh (Stan): Faster Convergence and Better Generalization in Physics-informed Neural Networks.</span></b> To be submitted (2022)  <br>[[Preprint]](https://arxiv.org/abs/2204.12589)
 13. Maede Maftouni, <b><ins>Bo Shen</ins></b>, Andrew Chung Chee Law, Rongxuan Wang, and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">Automatic Melt Pool Segmentation and Tracking in the X-ray Image Sequence.</span></b> To be submitted to <i>IISE Transactions.</i> (2022)
 14. Raghav Gnanasambandam, <b><ins>Bo Shen</ins></b>, Andrew Chung Chee Law, and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">Deep Gaussian Process Upper Confidence Bound for Optimizing Non-Stationary Functions and its Application in Additive Manufacturing.</span></b> To be submitted to <i>ASME Trans. Journal of Manufacturing Science and Engineering.</i> (2022)
-15. Andrew Chung Chee Law, Maede Maftouni, <b><ins>Bo Shen</ins></b>, and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">Forward Prediction of Residual
-Stress Formation in Laser Powder Bed Fusion using Deep Neural Network.</span></b> To be submitted to <i>Manufacturing Letter.</i> (2022) 
+15. Andrew Chung Chee Law, Maede Maftouni, <b><ins>Bo Shen</ins></b>, and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">Forward Prediction of Residual Stress Formation in Laser Powder Bed Fusion using Deep Neural Network.</span></b> To be submitted to <i>Manufacturing Letter.</i> (2022) 
+16. <b><ins>Bo Shen</ins></b> and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">Nonnegative Tensor-on-Tensor Regression with  Wasserstein Loss.</span></b> To be submitted (2022) 
 
 
 
@@ -38,9 +38,9 @@ Stress Formation in Laser Powder Bed Fusion using Deep Neural Network.</span></b
 # Conference Papers 
 
 
-{:start="16"}
+{:start="17"}
 
-16. Maede Maftouni, Andrew Chung Chee Law, <b><ins>Bo Shen</ins></b>, Yanze Zhou, Niloofar Ayoobi Yazdi, and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">A Robust Ensemble-Deep Learning Model for COVID-19 Diagnosis based on an Integrated CT Scan Images Database.</span></b> <i>Conference: Proceedings of the 2021 IISE Annual Conference</i> <br>[[Paper]](https://www.proquest.com/docview/2560887697) [[Code]](https://github.com/maftouni/Corona_CT_Classification) [[Dataset]](https://github.com/maftouni/Curated_Covid_CT) [[Poster]](http://boshen0.github.io/files/CovidIISE.pdf)
+17. Maede Maftouni, Andrew Chung Chee Law, <b><ins>Bo Shen</ins></b>, Yanze Zhou, Niloofar Ayoobi Yazdi, and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">A Robust Ensemble-Deep Learning Model for COVID-19 Diagnosis based on an Integrated CT Scan Images Database.</span></b> <i>Conference: Proceedings of the 2021 IISE Annual Conference</i> <br>[[Paper]](https://www.proquest.com/docview/2560887697) [[Code]](https://github.com/maftouni/Corona_CT_Classification) [[Dataset]](https://github.com/maftouni/Curated_Covid_CT) [[Poster]](http://boshen0.github.io/files/CovidIISE.pdf)
 
 # Notes
 <b><span style="color:RoyalBlue">Robust Tensor Principal Component Analysis: Exact Recovery via Deterministic Model.</span></b> <br>[[Preprint]](https://arxiv.org/abs/2008.02211)
