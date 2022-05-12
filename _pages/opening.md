@@ -19,4 +19,4 @@ If you are interested in applying and working with me, please send the following
  * Master's transcript (if applicable)
  * English test score (required for international students)
  * Writing sample (if applicable)
-to me at :email: [boshen@vt.edu](mailto:boshen@vt.edu)  with the email subject as "Ph.D. Applicant for {Start Date} (Your Name)", for example, "Ph.D. Application for 2022 Spring (Bo Shen)". Review and interview of applications will begin as soon as possible for the Fall 2022 admission and will continue until both positions are filled. If you would like to know more about my research, please visit https://boshen0.github.io/ for more details. If you have any questions, please do not hesitate to send me an email.
+to me at (:email: [boshen@vt.edu](mailto:boshen@vt.edu))  with the email subject as "Ph.D. Applicant for {Start Date} (Your Name)", for example, "Ph.D. Application for 2022 Spring (Bo Shen)". Review and interview of applications will begin as soon as possible for the Fall 2022 admission and will continue until both positions are filled. If you have any questions, please do not hesitate to send me an email.
