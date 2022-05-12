@@ -15,7 +15,7 @@ redirect_from:
 # About Me
 I am a 5th-year Ph.D. Candidate in the [Industrial and Systems Engineering](https://www.ise.vt.edu/) at [Virginia Tech](https://vt.edu/), advised by Prof. [Zhenyu (James) Kong](https://www.ise.vt.edu/people/faculty/kong.html). I received my B.S. of Statistics from [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/)  in 2017. Some of my profiles are available: [[Curriculum Vitae](https://boshen0.github.io/files/BoCV.pdf)] [[Google Scholar](https://scholar.google.com/citations?user=OO3dy4wAAAAJ&hl=en)] [[ResearchGate](https://www.researchgate.net/profile/Bo-Shen-22)].
 
-I will join [Department of Mechanical and Industrial Engineering, New Jersey Institute of Technology](https://mie.njit.edu/) as an Assistant Professor starting September 2022. I am looking for self-motivated Ph.D. students with strong Math/Stat backgound or hands-on experience in experiments. Please contact me :email: [boshen@vt.edu](mailto:boshen@vt.edu)  if you are interested in working with me.
+I will join [Department of Mechanical and Industrial Engineering, New Jersey Institute of Technology](https://mie.njit.edu/) as an Assistant Professor starting September 2022. I am looking for self-motivated Ph.D. students with strong Math/Stat backgound or hands-on experience in experiments. Please contact me at :email: [boshen@vt.edu](mailto:boshen@vt.edu)  if you are interested in working with me.
 
 **Reseach Interest**
    * Methodology: Tensor data analysis; Optimization theory; Statistical learning; Machine learning; Deep Learning.
@@ -27,7 +27,7 @@ News
 [**May 2022**]  Our paper  _"Automatic Melt Pool Segmentation and Tracking in the X-ray Image Sequence"_ was selected as the Finalists for [IISE Manufacturing and Design (M&D) Division Best Student Paper Award](https://www.iise.org/Details.aspx?id=38051) (Winner will be selected in May 24th, 2022) \
 [**April 2022**] Our paper  _"Reinforcement Learning-based Defect Mitigation for Quality Assurance of Additive Manufacturing"_ was selected as the Finalists for [IISE QCRE Division Best Student Paper Award](https://www.iise.org/Details.aspx?id=29058) (Winner will be selected in May 24th, 2022) \
 [**March 2022**] I was selected as a Member of [Graduate Academy for Teaching Excellence](http://vtgrate.org/membership/application-and-review/), Virginia Tech  \
-[**March 2022**] I was awarded as the _ISE Outstanding PhD Student of the Year_, Virginia Tech  \
+[**March 2022**] I was awarded as the ISE Outstanding PhD Student of the Year, Virginia Tech  \
 [**October 2021**] Our paper _"A Novel Anomaly Discovery Method and its Applications in Additive Manufacturing"_ was selected as the Finalists for [INFORMS Data Mining Section Best Paper Award](https://connect.informs.org/data-mining/awards/prize/new-item222758667) (Student Track)  \
 [**October 2020**] Our paper _"A Mask-guided Attention Deep Learning Model for COVID-19 Diagnosis based on an Integrated CT Scan Images Database"_ was selected as the Runner-up for [INFORMS QSR Industry Data Challenge](https://connect.informs.org/qsr/awards)  \
 [**October 2020**]  Our paper  _"Super Resolution for Multi-Sources Image Stream Data Using Smooth and Sparse Tensor Completion and Its Applications in Data Acquisition of Additive Manufacturing"_  was selected as the Finalists for [INFORMS QSR Best Refereed Paper Competition](https://connect.informs.org/qsr/awards)
