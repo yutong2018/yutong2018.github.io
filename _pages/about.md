@@ -15,7 +15,7 @@ redirect_from:
 # About Me
 I am a 5th-year Ph.D. Candidate in the [Industrial and Systems Engineering](https://www.ise.vt.edu/) at [Virginia Tech](https://vt.edu/), advised by Prof. [Zhenyu (James) Kong](https://www.ise.vt.edu/people/faculty/kong.html). I received my B.S. of Statistics from [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/)  in 2017. Some of my profiles are available: [[Curriculum Vitae](https://boshen0.github.io/files/BoCV.pdf)] [[Google Scholar](https://scholar.google.com/citations?user=OO3dy4wAAAAJ&hl=en)] [[ResearchGate](https://www.researchgate.net/profile/Bo-Shen-22)].
 
-I will join [Department of Mechanical and Industrial Engineering, New Jersey Institute of Technology](https://mie.njit.edu/) as an Assistant Professor starting September 2022. I am looking for self-motivated Ph.D. students with strong Math/Stat backgound or hands-on experience in experiments. Please contact me at :email: [boshen@vt.edu](mailto:boshen@vt.edu)  if you are interested in working with me.
+I will join [Department of Mechanical and Industrial Engineering, New Jersey Institute of Technology](https://mie.njit.edu/) as an Assistant Professor starting September 2022. I am looking for self-motivated Ph.D. students with strong Math/Stat backgound or hands-on experience in experiments. More details are in [Opening](https://boshen0.github.io/opening/). Please contact me at :email: [boshen@vt.edu](mailto:boshen@vt.edu)  if you are interested in working with me. 
 
 **Reseach Interest**
    * Methodology: Tensor data analysis; Optimization theory; Statistical learning; Machine learning; Deep Learning.
