@@ -23,14 +23,14 @@ I will join [Department of Mechanical and Industrial Engineering, New Jersey Ins
 
 News
 =====
-[**May 2022**] Our paper on "In-process Multi-physics Melt Pool Measurement and Correlation Analysis in Laser Powder Bed Fusion" was selected as the Finalists for IISE Manufacturing and Design (M&D) Division Best Paper Award (Winner will be selected in May 24th, 2022) \
-[**May 2022**]  Our paper on "Automatic Melt Pool Segmentation and Tracking in the X-ray Image Sequence" was selected as the Finalists for [IISE Manufacturing and Design (M&D) Division Best Student Paper Award](https://www.iise.org/Details.aspx?id=38051) (Winner will be selected in May 24th, 2022) \
-[**April 2022**] Our paper on "Reinforcement Learning-based Defect Mitigation for Quality Assurance of Additive Manufacturing" was selected as the Finalists for [IISE QCRE Division Best Student Paper Award](https://www.iise.org/Details.aspx?id=29058) (Winner will be selected in May 24th, 2022) \
+[**May 2022**] Our paper _"In-process Multi-physics Melt Pool Measurement and Correlation Analysis in Laser Powder Bed Fusion"_ was selected as the Finalists for IISE Manufacturing and Design (M&D) Division Best Paper Award (Winner will be selected in May 24th, 2022) \
+[**May 2022**]  Our paper  _"Automatic Melt Pool Segmentation and Tracking in the X-ray Image Sequence"_ was selected as the Finalists for [IISE Manufacturing and Design (M&D) Division Best Student Paper Award](https://www.iise.org/Details.aspx?id=38051) (Winner will be selected in May 24th, 2022) \
+[**April 2022**] Our paper  _"Reinforcement Learning-based Defect Mitigation for Quality Assurance of Additive Manufacturing"_ was selected as the Finalists for [IISE QCRE Division Best Student Paper Award](https://www.iise.org/Details.aspx?id=29058) (Winner will be selected in May 24th, 2022) \
 [**March 2022**] I was selected as a Member of [Graduate Academy for Teaching Excellence](http://vtgrate.org/membership/application-and-review/), Virginia Tech  \
-[**March 2022**] I was awarded as the ISE Outstanding PhD Student of the Year, Virginia Tech  \
-[**October 2021**] Our paper on "A Novel Anomaly Discovery Method and its Applications in Additive Manufacturing" was selected as the Finalists for [INFORMS Data Mining Section Best Paper Award](https://connect.informs.org/data-mining/awards/prize/new-item222758667) (Student Track)  \
-[**October 2020**] Our paper on "A Mask-guided Attention Deep Learning Model for COVID-19 Diagnosis based on an Integrated CT Scan Images Database" was selected as the Runner-up for [INFORMS QSR Industry Data Challenge](https://connect.informs.org/qsr/awards)  \
-[**October 2020**]  Our paper on "Super Resolution for Multi-Sources Image Stream Data Using Smooth and Sparse Tensor Completion and Its Applications in Data Acquisition of Additive Manufacturing"  was selected as the Finalists for [INFORMS QSR Best Refereed Paper Competition](https://connect.informs.org/qsr/awards)
+[**March 2022**] I was awarded as the _ISE Outstanding PhD Student of the Year_, Virginia Tech  \
+[**October 2021**] Our paper _"A Novel Anomaly Discovery Method and its Applications in Additive Manufacturing"_ was selected as the Finalists for [INFORMS Data Mining Section Best Paper Award](https://connect.informs.org/data-mining/awards/prize/new-item222758667) (Student Track)  \
+[**October 2020**] Our paper _"A Mask-guided Attention Deep Learning Model for COVID-19 Diagnosis based on an Integrated CT Scan Images Database"_ was selected as the Runner-up for [INFORMS QSR Industry Data Challenge](https://connect.informs.org/qsr/awards)  \
+[**October 2020**]  Our paper  _"Super Resolution for Multi-Sources Image Stream Data Using Smooth and Sparse Tensor Completion and Its Applications in Data Acquisition of Additive Manufacturing"_  was selected as the Finalists for [INFORMS QSR Best Refereed Paper Competition](https://connect.informs.org/qsr/awards)
 
 
  
