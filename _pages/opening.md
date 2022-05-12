@@ -1,9 +1,19 @@
 ---
+permalink: /opening/
+title: "Opening"
+excerpt: ""
+author_profile: true
+redirect_from: 
+  - /opening/
+  - /opening.html
+---
+
+<!-- ---
 layout: archive
 title: "Opening"
 permalink: /opening/
 author_profile: true
----
+--- -->
 We have two fully-funded Ph.D. positions in the [Department of Mechanical & Industrial Engineering at the New Jersey Institute of Technology (NJIT)](https://mie.njit.edu/) with a focus on Statistics/Optimization/Machine Learning/Deep Learning for Advanced Manufacturing. The start date can be Spring 2023/Fall 2023. The Ph.D. student will work with Bo Shen, an incoming tenure-track Assistant Professor in the MIE department at NJIT. His research focuses on developing advanced machine learning methods for improving the quality and productivity of advanced manufacturing. 
 
 **Qualifications:**
