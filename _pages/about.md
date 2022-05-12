@@ -18,23 +18,15 @@ redirect_from:
    * Some of my profiles are available: [[Curriculum Vitae](https://boshen0.github.io/files/BoCV.pdf)] [[Google Scholar](https://scholar.google.com/citations?user=OO3dy4wAAAAJ&hl=en)] [[ResearchGate](https://www.researchgate.net/profile/Bo-Shen-22)].
 * I received my B.S. of Statistics from [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/)  in 2017.
 * Reseach Interest
-   * Methodology: Tensor data analysis; Optimization for machine learning; Bayesian optimization; Federated learning; Physics-informed machine learning; Reinforcement learning.
+   * Methodology: Tensor data analysis; Optimization theory; Statistical learning; Machine learning; Deep Learning.
    * Application: Smart manufacturing; Additive manufacturing; Cybersecurity; Industrial Internet of Things (IIoT); Healthcare.
 
 News
 =====
-[Apr. 2022]  Held a Workshop on ["Building Interactive Dashboards with Tableau"](https://www.youtube.com/watch?v=ZsjCkWFVwCk) at VT INFORMS Student Chapter\
-[Nov. 2021]  Held a Python Workshop on ["US Real Estate Market Trends Visualization"](https://www.youtube.com/watch?v=Yo0P7zcKDtg) at VT INFORMS Student Chapter\
-[Aug. 2021]  Received Future Professoriate Certificate at Virginia Tech\
-[Apr. 2021]  Held a Workshop on ["Data Wrangling and Analysis in Python"](https://www.youtube.com/watch?v=H3avEl3mp6o) at VT INFORMS Student Chapter\
-[Nov. 2020]  Won the runner-up award in the 2020 INFORMS QSR Data Challenge on "CT Scan Diagnosis for COVID-19"\
-[Nov. 2020]  Won the second place in the 2020 VT INFORMS student Chapter Poster Competition\
-[May 2020]  Received Master of Science in Industrial and Systems Engineering (ISE) at Virginia Tech\
-[Dec. 2019]  Received Graduate Certificate in Data Analytics at Virginia Tech\
-[March 2020] Passed the Ph.D. Preliminary Exam \
-[Nov. 2019] Presented at 2019 Informs Annual Meeting Seattle\
-[Sept. 2019] Joined the SMART Lab \
-[Sept. 2017]  Awarded a Graduate Fellowship for the Ph.D. program at Virginia Tech
+
+[Oct. 2021] Our paper on [A Novel Anomaly Discovery Method and its Applications in Additive Manufacturing](https://doi.org/10.36227/techrxiv.16674412.v1)  was selected as the Finalists for [INFORMS Data Mining Section Best Paper Award](https://connect.informs.org/data-mining/awards/prize/new-item222758667) (Student Track)  \
+[Oct. 2020] Our paper on [A Mask-guided Attention Deep Learning Model for COVID-19 Diagnosis based on an Integrated CT Scan Images Database](https://doi.org/10.36227/techrxiv.18166667.v1) was selected as the Runner-up for [INFORMS QSR Industry Data Challenge](https://connect.informs.org/qsr/awards)  \
+[Oct. 2020]  Our paper on [Super Resolution for Multi-Sources Image Stream Data Using Smooth and Sparse Tensor Completion and Its Applications in Data Acquisition of Additive Manufacturing](https://www.tandfonline.com/doi/full/10.1080/00401706.2021.1905074)  was selected as the Finalists for [INFORMS QSR Best Refereed Paper Competition](https://connect.informs.org/qsr/awards)
 
 
  
