@@ -17,12 +17,11 @@ I am a 5th-year Ph.D. Candidate in the [Industrial and Systems Engineering](http
 
 I will join [Department of Mechanical and Industrial Engineering, New Jersey Institute of Technology](https://mie.njit.edu/) as an Assistant Professor starting September 2022. I am looking for self-motivated Ph.D. students with strong Math/Stat backgound or hands-on experience in experiments. More details are in [Opening](https://boshen0.github.io/opening/). Please contact me at :email: [boshen@vt.edu](mailto:boshen@vt.edu)  if you are interested in working with me. 
 
-**Reseach Interest**
+## Reseach Interest
    * Methodology: Tensor data analysis; Optimization theory; Statistical learning; Machine learning; Deep Learning.
    * Application: Smart manufacturing; Additive manufacturing; Cybersecurity; Industrial Internet of Things (IIoT); Healthcare.
 
-News
-=====
+# News
 [**May 2022**] Our paper _"In-process Multi-physics Melt Pool Measurement and Correlation Analysis in Laser Powder Bed Fusion"_ was selected as the Finalists for IISE Manufacturing and Design (M&D) Division Best Paper Award (Winner will be selected in May 24th, 2022) \
 [**May 2022**]  Our paper  _"Automatic Melt Pool Segmentation and Tracking in the X-ray Image Sequence"_ was selected as the Finalists for [IISE Manufacturing and Design (M&D) Division Best Student Paper Award](https://www.iise.org/Details.aspx?id=38051) (Winner will be selected in May 24th, 2022) \
 [**April 2022**] Our paper  _"Reinforcement Learning-based Defect Mitigation for Quality Assurance of Additive Manufacturing"_ was selected as the Finalists for [IISE QCRE Division Best Student Paper Award](https://www.iise.org/Details.aspx?id=29058) (Winner will be selected in May 24th, 2022) \
