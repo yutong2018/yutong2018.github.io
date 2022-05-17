@@ -4,6 +4,7 @@ title: "Awards & Honors"
 permalink: /awards/
 author_profile: true
 ---
+*  Finalists for [IISE QCRE/ProcessMiner Data Challenge Competition](https://processminer.com/processminer-sponsor-iise-qcre-challenge/#:~:text=ATLANTA%2C%20GA%2C%20September%208%2C,Industrial%20and%20Systems%20Engineers%20(IISE)) (Winner will be selected in May 24th, 2022)
 *  Finalists for IISE Manufacturing and Design (M&D) Division Best Paper Award (Winner will be selected in May 24th, 2022)
 *  Finalists for [IISE Manufacturing and Design (M&D) Division Best Student Paper Award](https://www.iise.org/Details.aspx?id=38051) (Winner will be selected in May 24th, 2022)
 *  Finalists for [IISE QCRE Division Best Student Paper Award](https://www.iise.org/Details.aspx?id=29058) (Winner will be selected in May 24th, 2022)
