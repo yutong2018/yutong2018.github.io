@@ -22,7 +22,7 @@ I will join [Department of Mechanical and Industrial Engineering, New Jersey Ins
    * Application: Smart manufacturing; Additive manufacturing; Cybersecurity; Industrial Internet of Things (IIoT); Healthcare.
 
 # News
-[**May 2022**] All four [SMART lab](https://www.smartlab-vt.com/) teams won first place in their best paper competitions at [the 2022 IISE Annual Conference](https://www.iise.org/annual/)!! I am so proud to be a member of the SMART lab and co-autohered these four papers!
+[**May 2022**] All four [SMART lab](https://www.smartlab-vt.com/) teams won first place in their best paper competitions at [the 2022 IISE Annual Conference](https://www.iise.org/annual/)!! I am so proud to be a member of the SMART lab and co-autohered these four papers! \
 [**May 2022**] Our paper _"Self-scalable Tanh (Stan): Faster Convergence and Better Generalization in Physics-informed Neural Networks"_ was the Winner for [IISE QCRE/ProcessMiner Data Challenge Competition](https://processminer.com/processminer-sponsor-iise-qcre-challenge/#:~:text=ATLANTA%2C%20GA%2C%20September%208%2C,Industrial%20and%20Systems%20Engineers%20(IISE)) \
 [**May 2022**] Our paper _"In-process Multi-physics Melt Pool Measurement and Correlation Analysis in Laser Powder Bed Fusion"_ was the Winner for IISE Manufacturing and Design (M&D) Division Best Paper Award\
 [**May 2022**]  Our paper  _"Automatic Melt Pool Segmentation and Tracking in the X-ray Image Sequence"_ was the Winner for [IISE Manufacturing and Design (M&D) Division Best Student Paper Award](https://www.iise.org/Details.aspx?id=38051) \
