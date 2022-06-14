@@ -11,9 +11,9 @@ title                    : "Yutong Zhang"
 title_separator          : "-"
 name                     : &name "Yutong Zhang"
 description              : &description "Ph.D. Candidate, ISE Department, Virginia Tech"
-url                      : https://yutongz.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://yutong2018.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "yutong2018/yutongz.github.io"
+repository               : "yutong2018/yutong2018.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
