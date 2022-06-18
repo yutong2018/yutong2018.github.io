@@ -77,13 +77,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Bo Shen"
+  name             : "Yutong Zhang"
   avatar           : "boshen.jpg"
   bio              : "Ph.D. Candidate, ISE Department, Virginia Tech"
   location         : "Blacksburg, VA"
   employer         : 
-  googlescholar    : "https://scholar.google.com/citations?user=OO3dy4wAAAAJ&hl=en"
-  email            : "boshen@vt.edu"
+  googlescholar    : 
+  email            : "yutongz@vt.edu"
   uri              : 
   bitbucket        :
   codepen          :
@@ -91,19 +91,19 @@ author:
   flickr           :
   facebook         : 
   foursquare       :
-  github           : "BoShen0"
+  github           : "yutong2018"
   google_plus      :
   keybase          : 
   instagram        : 
   lastfm           :
-  linkedin         : "bo-shen-6112161aa"
-  orcid            : "https://orcid.org/0000-0002-2643-3600"
+  linkedin         : 
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "BoShen07"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
