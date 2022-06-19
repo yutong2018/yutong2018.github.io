@@ -13,7 +13,5 @@ author_profile: true
 
 # Working and Submitted Papers
 
-{:start="12"}
-
 7. <b><ins>Yutong Zhang</ins></b>, and Xi Chen. <b><span style="color:RoyalBlue"> A Sequential Metamodel-based Approach for Stochastic Simulation Level Set Estimation.</span></b> To be submitted to <i>Journal of Global Optimization.</i> (2022)
 8. Xi Chen, <b><ins>Yutong Zhang</ins></b>, and Guangrui Xie. <b><span style="color:RoyalBlue"> Uniform Error Bounds for Stochastic Kriging and Their Properties.</span></b> To be submitted to <i>ACM Transactions on Modeling and Computer Simulation (TOMACS).</i> (2022)
