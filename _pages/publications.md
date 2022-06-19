@@ -12,6 +12,5 @@ author_profile: true
 6. Lening Wang, <b><ins>Yutong Zhang</ins></b>, Xiaoyu Chen, and Jin Ran. <b><span style="color:RoyalBlue">Online Computation Performance Analysis for Distributed Machine Learning Pipelines in Fog Manufacturing.</span></b> In <i>2020 IEEE International Conference on Automation Science and Engineering (CASE).</i> (2020) [[Paper]](https://ieeexplore.ieee.org/document/9216979)  
 
 # Working and Submitted Papers
-
 7. <b><ins>Yutong Zhang</ins></b>, and Xi Chen. <b><span style="color:RoyalBlue"> A Sequential Metamodel-based Approach for Stochastic Simulation Level Set Estimation.</span></b> To be submitted to <i>Journal of Global Optimization.</i> (2022)
 8. Xi Chen, <b><ins>Yutong Zhang</ins></b>, and Guangrui Xie. <b><span style="color:RoyalBlue"> Uniform Error Bounds for Stochastic Kriging and Their Properties.</span></b> To be submitted to <i>ACM Transactions on Modeling and Computer Simulation (TOMACS).</i> (2022)
