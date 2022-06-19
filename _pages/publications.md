@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 # Accepted and Published Publications
-1. <b><ins>Yutong Zhang</ins></b>, and Xi Chen. <b><span style="color:RoyalBlue"> Empirical Uniform Bounds for Heteroscedastic Metamodeling.</span></b> In <i> Proceedings of Winter Simulation Conference 2022.</i> (2022)
+1. <b><ins>Yutong Zhang</ins></b>, and Xi Chen. <b><span style="color:RoyalBlue"> Empirical Uniform Bounds for Heteroscedastic Metamodeling.</span></b> In <i> Proceedings of Winter Simulation Conference.</i> (2022) <i> Accepted. </i> 
 2. <b><ins>Bo Shen</ins></b>, Rongxuan Wang, Andrew Chung Chee Law, Rakesh Kamath, Hahn Choo, and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">Super Resolution for Multi-Sources Image Stream Data Using Smooth and Sparse Tensor Completion and Its Applications in Data Acquisition of Additive Manufacturing.</span></b> <i>Technometrics.</i> (2021) <br>[[Paper]](https://www.tandfonline.com/doi/full/10.1080/00401706.2021.1905074) [[Code]](https://www.tandfonline.com/doi/suppl/10.1080/00401706.2021.1905074?scroll=top) [[Poster]](http://boshen0.github.io/files/SSTCtechnometrics.pdf)
     * <span style="color: Tomato"> **Finalists for INFORMS QSR Best Refereed Paper Competition, 2020** </span>  
     * <span style="color: Tomato"> **Second place of poster competition in INFORMS & HFES Student Poster Competition, ISE, Virginia Tech, 2019** </span>   
