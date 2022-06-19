@@ -9,7 +9,7 @@ author_profile: true
 
 # Graduate Teaching Assistant
 * ISE 2404 Deterministic Operations Research I (Spring 2019, Summer 2020)
-* * ENGE 1215 Foundations of Engineering I&II (Fall 2019, Spring 2020)
+* ENGE 1215 Foundations of Engineering I&II (Fall 2019, Spring 2020)
 * ISE 4004 Theory of Organization (Fall 2020)
 * ISE 5424 Simulation (Fall 2021)
 
