@@ -3,12 +3,10 @@ title: ""
 permalink: /publications/
 author_profile: true
 ---
-# Accepted and Published Publications
+# Accepted and Published Papers
 1. <b><ins>Yutong Zhang</ins></b>, and Xi Chen. <b><span style="color:RoyalBlue"> Empirical Uniform Bounds for Heteroscedastic Metamodeling.</span></b> In <i> Proceedings of Winter Simulation Conference.</i> (2022) <i> Accepted. </i> 
-2. <b><ins>Bo Shen</ins></b>, Rongxuan Wang, Andrew Chung Chee Law, Rakesh Kamath, Hahn Choo, and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">Super Resolution for Multi-Sources Image Stream Data Using Smooth and Sparse Tensor Completion and Its Applications in Data Acquisition of Additive Manufacturing.</span></b> <i>Technometrics.</i> (2021) <br>[[Paper]](https://www.tandfonline.com/doi/full/10.1080/00401706.2021.1905074) [[Code]](https://www.tandfonline.com/doi/suppl/10.1080/00401706.2021.1905074?scroll=top) [[Poster]](http://boshen0.github.io/files/SSTCtechnometrics.pdf)
-    * <span style="color: Tomato"> **Finalists for INFORMS QSR Best Refereed Paper Competition, 2020** </span>  
-    * <span style="color: Tomato"> **Second place of poster competition in INFORMS & HFES Student Poster Competition, ISE, Virginia Tech, 2019** </span>   
-3. <b><ins>Bo Shen</ins></b>, Raghav Gnanasambandam, Rongxuan Wang, and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">Multi-Task Gaussian Process Upper Confidence Bound for Hyperparameter Tuning and its Application for Simulation Studies of Additive Manufacturing.</span></b> <i>IISE Transactions.</i> (2022)  <br>[[Paper]](https://www.tandfonline.com/doi/full/10.1080/24725854.2022.2039813) [[Code]](https://github.com/BoShen0/Multi-task-GPUCB)
+2. <b><ins>Yutong Zhang</ins></b>, and Xi Chen. <b><span style="color:RoyalBlue"> Information Consistency of Stochastic Kriging and Its Implications. </span></b> In <i>Proceedings of Winter Simulation Conference.</i> (2021) <br>[[Paper]](https://ieeexplore.ieee.org/abstract/document/9715476)  
+3. <b><ins>Yutong Zhang</ins></b>, Lening Wang, Xiaoyu Chen, and Ran Jin. <b><span style="color:RoyalBlue"> System Information and Hypothesis Tests of Significant Factors to Performance in a Fog Manufacturing System.</span></b> In <i> Proceedings of Institute of Industrial and Systems Engineers Annual Conference.</i> (2020)
 4. <b><ins>Bo Shen</ins></b>, Rakesh Kamath, Hahn Choo, and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">Robust Tensor Decomposition based Background/Foreground Separation in Noisy Videos and Its Applications in Additive Manufacturing.</span></b>  <i>IEEE Transactions on Automation Science and Engineering.</i> (2022) <br>[[Paper]](https://doi.org/10.1109/TASE.2022.3163674)
 5. <b><ins>Bo Shen</ins></b> and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">A Novel Active Anomaly Discovery Method and its Applications in Additive Manufacturing.</span></b> Under review at <i>IISE Transactions.</i> (2022) <br>[[Preprint]](https://doi.org/10.36227/techrxiv.16674412.v1) 
     * <span style="color: Tomato"> **Finalists for INFORMS Data Mining Section Best Paper Award (Student Track), 2021**  </span>  
