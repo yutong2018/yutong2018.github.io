@@ -13,7 +13,7 @@ redirect_from:
 </p>
  -->
 # About Me
-I am a 4th-year Ph.D. Candidate in the [Industrial and Systems Engineering](https://www.ise.vt.edu/) at [Virginia Tech](https://vt.edu/), advised by Dr. [Xi Chen](https://www.ise.vt.edu/people/faculty/chen.html). I received my M.S. in Statistics from [Temple University](https://www.temple.edu/) in 2018 and B.S. of Statistics from [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/) in 2017. My CV are available: [Curriculum Vitae](http://yutong2018.github.io/files/cv_YZ.pdf).
+I am a 5th-year Ph.D. Candidate in the [Industrial and Systems Engineering](https://www.ise.vt.edu/) at [Virginia Tech](https://vt.edu/), advised by Dr. [Xi Chen](https://www.ise.vt.edu/people/faculty/chen.html). I received my M.S. in Statistics from [Temple University](https://www.temple.edu/) in 2018 and B.S. of Statistics from [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/) in 2017. My resume are available: [Resume](http://yutong2018.github.io/files/resume_YZ.pdf).
 
 
  
